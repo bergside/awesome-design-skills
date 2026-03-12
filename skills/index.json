@@ -1,0 +1,187 @@
+{
+  "artistic": {
+    "slug": "artistic",
+    "name": "Artistic",
+    "skillPath": "skills/artistic/SKILL.md"
+  },
+  "bold": {
+    "slug": "bold",
+    "name": "Bold",
+    "skillPath": "skills/bold/SKILL.md"
+  },
+  "claymorphism": {
+    "slug": "claymorphism",
+    "name": "Claymorphism",
+    "skillPath": "skills/claymorphism/SKILL.md"
+  },
+  "colorful": {
+    "slug": "colorful",
+    "name": "Colorful",
+    "skillPath": "skills/colorful/SKILL.md"
+  },
+  "contemporary": {
+    "slug": "contemporary",
+    "name": "Contemporary",
+    "skillPath": "skills/contemporary/SKILL.md"
+  },
+  "corporate": {
+    "slug": "corporate",
+    "name": "Corporate",
+    "skillPath": "skills/corporate/SKILL.md"
+  },
+  "creative": {
+    "slug": "creative",
+    "name": "Creative",
+    "skillPath": "skills/creative/SKILL.md"
+  },
+  "dithered": {
+    "slug": "dithered",
+    "name": "Dithered",
+    "skillPath": "skills/dithered/SKILL.md"
+  },
+  "editorial": {
+    "slug": "editorial",
+    "name": "Editorial",
+    "skillPath": "skills/editorial/SKILL.md"
+  },
+  "elegant": {
+    "slug": "elegant",
+    "name": "Elegant",
+    "skillPath": "skills/elegant/SKILL.md"
+  },
+  "enterprise": {
+    "slug": "enterprise",
+    "name": "Enterprise",
+    "skillPath": "skills/enterprise/SKILL.md"
+  },
+  "fantasy": {
+    "slug": "fantasy",
+    "name": "Fantasy",
+    "skillPath": "skills/fantasy/SKILL.md"
+  },
+  "friendly": {
+    "slug": "friendly",
+    "name": "Friendly",
+    "skillPath": "skills/friendly/SKILL.md"
+  },
+  "futuristic": {
+    "slug": "futuristic",
+    "name": "Futuristic",
+    "skillPath": "skills/futuristic/SKILL.md"
+  },
+  "glassmorphism": {
+    "slug": "glassmorphism",
+    "name": "Glassmorphism",
+    "skillPath": "skills/glassmorphism/SKILL.md"
+  },
+  "gradient": {
+    "slug": "gradient",
+    "name": "Gradient",
+    "skillPath": "skills/gradient/SKILL.md"
+  },
+  "luxury": {
+    "slug": "luxury",
+    "name": "Luxury",
+    "skillPath": "skills/luxury/SKILL.md"
+  },
+  "minimal": {
+    "slug": "minimal",
+    "name": "Minimal",
+    "skillPath": "skills/minimal/SKILL.md"
+  },
+  "modern": {
+    "slug": "modern",
+    "name": "Modern",
+    "skillPath": "skills/modern/SKILL.md"
+  },
+  "mono": {
+    "slug": "mono",
+    "name": "Mono",
+    "skillPath": "skills/mono/SKILL.md"
+  },
+  "neobrutalism": {
+    "slug": "neobrutalism",
+    "name": "Neobrutalism",
+    "skillPath": "skills/neobrutalism/SKILL.md"
+  },
+  "neon": {
+    "slug": "neon",
+    "name": "Neon",
+    "skillPath": "skills/neon/SKILL.md"
+  },
+  "neumorphism": {
+    "slug": "neumorphism",
+    "name": "Neumorphism",
+    "skillPath": "skills/neumorphism/SKILL.md"
+  },
+  "pacman": {
+    "slug": "pacman",
+    "name": "Pacman",
+    "skillPath": "skills/pacman/SKILL.md"
+  },
+  "paper": {
+    "slug": "paper",
+    "name": "Paper",
+    "skillPath": "skills/paper/SKILL.md"
+  },
+  "perspective": {
+    "slug": "perspective",
+    "name": "Perspective",
+    "skillPath": "skills/perspective/SKILL.md"
+  },
+  "premium": {
+    "slug": "premium",
+    "name": "Premium",
+    "skillPath": "skills/premium/SKILL.md"
+  },
+  "professional": {
+    "slug": "professional",
+    "name": "Professional",
+    "skillPath": "skills/professional/SKILL.md"
+  },
+  "refined": {
+    "slug": "refined",
+    "name": "Refined",
+    "skillPath": "skills/refined/SKILL.md"
+  },
+  "retro": {
+    "slug": "retro",
+    "name": "Retro",
+    "skillPath": "skills/retro/SKILL.md"
+  },
+  "shadcn": {
+    "slug": "shadcn",
+    "name": "Shadcn",
+    "skillPath": "skills/shadcn/SKILL.md"
+  },
+  "simple": {
+    "slug": "simple",
+    "name": "Simple",
+    "skillPath": "skills/simple/SKILL.md"
+  },
+  "sleek": {
+    "slug": "sleek",
+    "name": "Sleek",
+    "skillPath": "skills/sleek/SKILL.md"
+  },
+  "spacious": {
+    "slug": "spacious",
+    "name": "Spacious",
+    "skillPath": "skills/spacious/SKILL.md"
+  },
+  "storytelling": {
+    "slug": "storytelling",
+    "name": "Storytelling",
+    "skillPath": "skills/storytelling/SKILL.md"
+  },
+  "tetris": {
+    "slug": "tetris",
+    "name": "Tetris",
+    "skillPath": "skills/tetris/SKILL.md"
+  },
+  "vibrant": {
+    "slug": "vibrant",
+    "name": "Vibrant",
+    "skillPath": "skills/vibrant/SKILL.md"
+  }
+}
