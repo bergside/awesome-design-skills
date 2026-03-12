@@ -1,6 +1,6 @@
 # Awesome Design Skills Registry
 
-This repository is an open-source design system skill registry based on https://typeui.sh/design-systems.
+This repository is an open-source design system skill registry based on [typeui.sh](https://typeui.sh/design-systems).
 
 Each skill is organized by a unique folder name equal to its slug:
 
@@ -35,5 +35,5 @@ A CLI command like `npx typeui.sh pull <slug>` can:
 
 The current registry is generated from the provided source dataset and includes:
 
-- `37` design-system skills
+- `46` design-system skills
 - one `SKILL.md` file per slug

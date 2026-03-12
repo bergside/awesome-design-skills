@@ -1,4 +1,9 @@
 {
+  "agentic": {
+    "slug": "agentic",
+    "name": "Agentic",
+    "skillPath": "skills/agentic/SKILL.md"
+  },
   "artistic": {
     "slug": "artistic",
     "name": "Artistic",
@@ -9,10 +14,20 @@
     "name": "Bold",
     "skillPath": "skills/bold/SKILL.md"
   },
+  "cafe": {
+    "slug": "cafe",
+    "name": "Cafe",
+    "skillPath": "skills/cafe/SKILL.md"
+  },
   "claymorphism": {
     "slug": "claymorphism",
     "name": "Claymorphism",
     "skillPath": "skills/claymorphism/SKILL.md"
+  },
+  "clean": {
+    "slug": "clean",
+    "name": "Clean",
+    "skillPath": "skills/clean/SKILL.md"
   },
   "colorful": {
     "slug": "colorful",
@@ -29,6 +44,11 @@
     "name": "Corporate",
     "skillPath": "skills/corporate/SKILL.md"
   },
+  "cosmic": {
+    "slug": "cosmic",
+    "name": "Cosmic",
+    "skillPath": "skills/cosmic/SKILL.md"
+  },
   "creative": {
     "slug": "creative",
     "name": "Creative",
@@ -38,6 +58,11 @@
     "slug": "dithered",
     "name": "Dithered",
     "skillPath": "skills/dithered/SKILL.md"
+  },
+  "dramatic": {
+    "slug": "dramatic",
+    "name": "Dramatic",
+    "skillPath": "skills/dramatic/SKILL.md"
   },
   "editorial": {
     "slug": "editorial",
@@ -49,10 +74,20 @@
     "name": "Elegant",
     "skillPath": "skills/elegant/SKILL.md"
   },
+  "energetic": {
+    "slug": "energetic",
+    "name": "Energetic",
+    "skillPath": "skills/energetic/SKILL.md"
+  },
   "enterprise": {
     "slug": "enterprise",
     "name": "Enterprise",
     "skillPath": "skills/enterprise/SKILL.md"
+  },
+  "expressive": {
+    "slug": "expressive",
+    "name": "Expressive",
+    "skillPath": "skills/expressive/SKILL.md"
   },
   "fantasy": {
     "slug": "fantasy",
@@ -139,6 +174,11 @@
     "name": "Professional",
     "skillPath": "skills/professional/SKILL.md"
   },
+  "publication": {
+    "slug": "publication",
+    "name": "Publication",
+    "skillPath": "skills/publication/SKILL.md"
+  },
   "refined": {
     "slug": "refined",
     "name": "Refined",
@@ -183,5 +223,10 @@
     "slug": "vibrant",
     "name": "Vibrant",
     "skillPath": "skills/vibrant/SKILL.md"
+  },
+  "vintage": {
+    "slug": "vintage",
+    "name": "Vintage",
+    "skillPath": "skills/vintage/SKILL.md"
   }
 }
