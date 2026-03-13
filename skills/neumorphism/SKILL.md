@@ -11,7 +11,7 @@ Join the private club where people are building, monetizing, and marketing produ
 ## Style Foundations
 - Visual style: minimal, clean, high-contrast, playful, matrix
 - Typography scale: desktop-first expressive scale | Fonts: primary=Space Mono, display=Space Mono, mono=JetBrains Mono | weights=100, 200, 300, 400, 500, 600, 700, 800, 900
-- Color palette: primary, secondary, success, warning, danger, info | Tokens: primary=#37F712, secondary=#00A6F4, success=#00A63D, warning=#FE9900, danger=#FF2157, surface=#E7E5E4, text=#78716B
+- Color palette: primary, secondary, success, warning, danger, info | Tokens: primary=#006666, secondary=#F1F2F5, success=#00A63D, warning=#FE9900, danger=#FF2157, surface=#E7E5E4, text=#1E2938
 - Spacing scale: compact density mode
 
 ## Component Families
