@@ -228,5 +228,10 @@
     "slug": "vintage",
     "name": "Vintage",
     "skillPath": "skills/vintage/SKILL.md"
+  },
+  "levels": {
+    "slug": "levels",
+    "name": "Levels",
+    "skillPath": "skills/levels/SKILL.md"
   }
 }
