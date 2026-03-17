@@ -233,5 +233,10 @@
     "slug": "levels",
     "name": "Levels",
     "skillPath": "skills/levels/SKILL.md"
+  },
+  "bento": {
+    "slug": "bento",
+    "name": "Bento",
+    "skillPath": "skills/bento/SKILL.md"
   }
 }
