@@ -14,6 +14,11 @@
     "name": "Bold",
     "skillPath": "skills/bold/SKILL.md"
   },
+  "brutalism": {
+    "slug": "brutalism",
+    "name": "Brutalism",
+    "skillPath": "skills/brutalism/SKILL.md"
+  },
   "cafe": {
     "slug": "cafe",
     "name": "Cafe",
@@ -59,6 +64,11 @@
     "name": "Dithered",
     "skillPath": "skills/dithered/SKILL.md"
   },
+  "doodle": {
+    "slug": "doodle",
+    "name": "Doodle",
+    "skillPath": "skills/doodle/SKILL.md"
+  },
   "dramatic": {
     "slug": "dramatic",
     "name": "Dramatic",
@@ -94,6 +104,11 @@
     "name": "Fantasy",
     "skillPath": "skills/fantasy/SKILL.md"
   },
+  "flat": {
+    "slug": "flat",
+    "name": "Flat",
+    "skillPath": "skills/flat/SKILL.md"
+  },
   "friendly": {
     "slug": "friendly",
     "name": "Friendly",
@@ -118,6 +133,11 @@
     "slug": "luxury",
     "name": "Luxury",
     "skillPath": "skills/luxury/SKILL.md"
+  },
+  "material": {
+    "slug": "material",
+    "name": "Material",
+    "skillPath": "skills/material/SKILL.md"
   },
   "minimal": {
     "slug": "minimal",
@@ -198,6 +218,11 @@
     "slug": "simple",
     "name": "Simple",
     "skillPath": "skills/simple/SKILL.md"
+  },
+  "skeumorphism": {
+    "slug": "skeumorphism",
+    "name": "Skeumorphism",
+    "skillPath": "skills/skeumorphism/SKILL.md"
   },
   "sleek": {
     "slug": "sleek",
