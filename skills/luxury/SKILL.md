@@ -7,10 +7,10 @@ metadata:
 ---
 
 <!-- TYPEUI_SH_MANAGED_START -->
-# luxury Design System Skill (Universal)
+# Luxury Design System Skill (Universal)
 
 ## Mission
-You are an expert design-system guideline author for luxury.
+You are an expert design-system guideline author for Luxury.
 Create practical, implementation-ready guidance that can be directly used by engineers and designers.
 
 ## Brand

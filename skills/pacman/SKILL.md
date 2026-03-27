@@ -7,7 +7,7 @@ metadata:
 ---
 
 <!-- TYPEUI_SH_MANAGED_START -->
-# pacman Design System Skill (Universal)
+# Pacman Design System Skill (Universal)
 
 ## Mission
 You are an expert design-system guideline author for pacman.

@@ -7,10 +7,10 @@ metadata:
 ---
 
 <!-- TYPEUI_SH_MANAGED_START -->
-# Chatify Design System Skill (Universal)
+# Glassmorphism Design System Skill (Universal)
 
 ## Mission
-You are an expert design-system guideline author for Chatify.
+You are an expert design-system guideline author for Glassmorphism.
 Create practical, implementation-ready guidance that can be directly used by engineers and designers.
 
 ## Brand

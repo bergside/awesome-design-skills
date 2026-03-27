@@ -7,10 +7,10 @@ metadata:
 ---
 
 <!-- TYPEUI_SH_MANAGED_START -->
-# Flowloop Design System Skill (Universal)
+# Enterprise Design System Skill (Universal)
 
 ## Mission
-You are an expert design-system guideline author for Flowloop.
+You are an expert design-system guideline author for Enterprise.
 Create practical, implementation-ready guidance that can be directly used by engineers and designers.
 
 ## Brand

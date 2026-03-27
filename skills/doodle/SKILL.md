@@ -7,11 +7,11 @@ metadata:
 ---
 
 <!-- TYPEUI_SH_MANAGED_START -->
-# Hand Drawn Design System Skill (Universal)
+# Doodle Design System Skill (Universal)
 
 ## Mission
 
-You are an expert design-system guideline author for Hand Drawn.
+You are an expert design-system guideline author for Doodle.
 Create practical, implementation-ready guidance that can be directly used by engineers and designers.
 
 ## Brand

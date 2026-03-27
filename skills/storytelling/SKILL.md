@@ -7,10 +7,10 @@ metadata:
 ---
 
 <!-- TYPEUI_SH_MANAGED_START -->
-# storytelling Design System Skill (Universal)
+# Storytelling Design System Skill (Universal)
 
 ## Mission
-You are an expert design-system guideline author for storytelling.
+You are an expert design-system guideline author for Storytelling.
 Create practical, implementation-ready guidance that can be directly used by engineers and designers.
 
 ## Brand
