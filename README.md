@@ -59,6 +59,7 @@ Browse and preview all design skills at [typeui.sh/design-skills](https://typeui
 | Skill | Category | Preview | Pull Command |
 |-------|----------|---------|-------------|
 | **Agentic** | Themed & Unique | [Preview](https://typeui.sh/design-skills/agentic) | `npx typeui.sh pull agentic` |
+| **Application** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/application) | `npx typeui.sh pull application` |
 | **Artistic** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/artistic) | `npx typeui.sh pull artistic` |
 | **Bento** | Layout & Structure | [Preview](https://typeui.sh/design-skills/bento) | `npx typeui.sh pull bento` |
 | **Bold** | Bold & Expressive | [Preview](https://typeui.sh/design-skills/bold) | `npx typeui.sh pull bold` |
@@ -71,6 +72,7 @@ Browse and preview all design skills at [typeui.sh/design-skills](https://typeui
 | **Corporate** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/corporate) | `npx typeui.sh pull corporate` |
 | **Cosmic** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/cosmic) | `npx typeui.sh pull cosmic` |
 | **Creative** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/creative) | `npx typeui.sh pull creative` |
+| **Dashboard** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/dashboard) | `npx typeui.sh pull dashboard` |
 | **Dithered** | Retro & Nostalgic | [Preview](https://typeui.sh/design-skills/dithered) | `npx typeui.sh pull dithered` |
 | **Doodle** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/doodle) | `npx typeui.sh pull doodle` |
 | **Dramatic** | Bold & Expressive | [Preview](https://typeui.sh/design-skills/dramatic) | `npx typeui.sh pull dramatic` |
@@ -86,6 +88,7 @@ Browse and preview all design skills at [typeui.sh/design-skills](https://typeui
 | **Glassmorphism** | Morphism & Effects | [Preview](https://typeui.sh/design-skills/glassmorphism) | `npx typeui.sh pull glassmorphism` |
 | **Gradient** | Morphism & Effects | [Preview](https://typeui.sh/design-skills/gradient) | `npx typeui.sh pull gradient` |
 | **Levels** | Layout & Structure | [Preview](https://typeui.sh/design-skills/levels) | `npx typeui.sh pull levels` |
+| **Lingo** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/lingo) | `npx typeui.sh pull lingo` |
 | **Luxury** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/luxury) | `npx typeui.sh pull luxury` |
 | **Material** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/material) | `npx typeui.sh pull material` |
 | **Minimal** | Modern & Minimal | [Preview](https://typeui.sh/design-skills/minimal) | `npx typeui.sh pull minimal` |

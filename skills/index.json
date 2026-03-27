@@ -263,5 +263,20 @@
     "slug": "bento",
     "name": "Bento",
     "skillPath": "skills/bento/SKILL.md"
+  },
+  "lingo": {
+    "slug": "lingo",
+    "name": "Lingo",
+    "skillPath": "skills/lingo/SKILL.md"
+  },
+  "dashboard": {
+    "slug": "dashboard",
+    "name": "Dashboard",
+    "skillPath": "skills/dashboard/SKILL.md"
+  },
+  "application": {
+    "slug": "application",
+    "name": "Application",
+    "skillPath": "skills/application/SKILL.md"
   }
 }
