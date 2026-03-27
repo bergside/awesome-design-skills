@@ -59,6 +59,7 @@ Browse and preview all design skills at [typeui.sh/design-skills](https://typeui
 | Skill | Category | Preview | Pull Command |
 |-------|----------|---------|-------------|
 | **Agentic** | Themed & Unique | [Preview](https://typeui.sh/design-skills/agentic) | `npx typeui.sh pull agentic` |
+| **Ant** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/ant) | `npx typeui.sh pull ant` |
 | **Application** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/application) | `npx typeui.sh pull application` |
 | **Artistic** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/artistic) | `npx typeui.sh pull artistic` |
 | **Bento** | Layout & Structure | [Preview](https://typeui.sh/design-skills/bento) | `npx typeui.sh pull bento` |

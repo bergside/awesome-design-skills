@@ -278,5 +278,10 @@
     "slug": "application",
     "name": "Application",
     "skillPath": "skills/application/SKILL.md"
+  },
+  "ant": {
+    "slug": "ant",
+    "name": "Ant",
+    "skillPath": "skills/ant/SKILL.md"
   }
 }
