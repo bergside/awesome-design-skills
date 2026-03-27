@@ -1,3 +1,11 @@
+---
+name: refined
+description: Carefully curated, modern minimal style with elegant serif typography and understated, sophisticated palettes.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Refined Design System Skill (Universal)
 

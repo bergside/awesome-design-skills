@@ -1,3 +1,11 @@
+---
+name: elegant
+description: Graceful, refined aesthetic with delicate typography, minimal palettes, and polished layouts that exude sophistication.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Elegant Design System Skill (Universal)
 

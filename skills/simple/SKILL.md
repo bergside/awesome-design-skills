@@ -1,3 +1,11 @@
+---
+name: simple
+description: Straightforward, no-frills design with clean typography, neutral colors, and intuitive layouts that stay out of the way.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Simple Design System Skill (Universal)
 

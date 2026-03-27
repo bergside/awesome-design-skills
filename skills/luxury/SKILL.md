@@ -1,3 +1,11 @@
+---
+name: luxury
+description: High-end dark aesthetic with bold headings, monochromatic palette, and premium feel for luxury brand experiences.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # luxury Design System Skill (Universal)
 

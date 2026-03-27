@@ -1,3 +1,11 @@
+---
+name: levels
+description: Conversion-focused design that removes friction and guides users toward action through clarity, trust, and speed.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # levels Design System Skill (Universal)
 

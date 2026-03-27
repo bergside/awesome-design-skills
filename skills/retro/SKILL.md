@@ -1,3 +1,11 @@
+---
+name: retro
+description: Throwback design with vintage-inspired typography, high-contrast retro palettes, and nostalgic visual elements.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Retro Design System Skill (Universal)
 

@@ -1,3 +1,11 @@
+---
+name: paper
+description: Paper-textured, print-inspired design with minimal colors, clean serif/sans typography, and tactile surface qualities.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Paper Design Design System Skill (Universal)
 

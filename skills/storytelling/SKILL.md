@@ -1,3 +1,11 @@
+---
+name: storytelling
+description: Narrative-driven design using visuals, copy, and interaction to guide users through engaging, emotionally resonant journeys.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # storytelling Design System Skill (Universal)
 

@@ -1,3 +1,11 @@
+---
+name: cosmic
+description: Futuristic sci-fi aesthetic with dark themes, vibrant neon accents, and immersive spatial elements.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Cosmic Design System Skill (Universal)
 

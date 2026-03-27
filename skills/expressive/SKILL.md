@@ -1,3 +1,11 @@
+---
+name: expressive
+description: Vibrant, personality-driven design with bold colors, playful graphics, and dynamic layouts that balance creativity with structure.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Expressive Design System Skill (Universal)
 

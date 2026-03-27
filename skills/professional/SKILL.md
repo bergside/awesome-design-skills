@@ -1,3 +1,11 @@
+---
+name: professional
+description: Polished, business-ready design with modern typography, structured layouts, and a trustworthy visual identity.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Professional Design System Skill (Universal)
 

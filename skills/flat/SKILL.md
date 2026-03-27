@@ -1,3 +1,11 @@
+---
+name: flat
+description: Two-dimensional minimalist style with vibrant colors, clean typography, and no 3D effects for fast, user-friendly interfaces.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Flat Design System Skill (Antigravity)
 

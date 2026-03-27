@@ -1,3 +1,11 @@
+---
+name: contemporary
+description: Current-era minimalist design with bento grids, dark mode support, and high-performance accessible layouts.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # contemporary Design System Skill (Universal)
 

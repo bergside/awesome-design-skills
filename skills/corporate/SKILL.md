@@ -1,3 +1,11 @@
+---
+name: corporate
+description: Professional, brand-aligned design with structured grids, minimalist layouts, and consistent enterprise patterns.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Corporate Design System Skill (Universal)
 

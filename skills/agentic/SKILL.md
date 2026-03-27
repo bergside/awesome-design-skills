@@ -1,3 +1,11 @@
+---
+name: agentic
+description: Conversational AI-first interface with minimal controls, clear outcomes, and delegated task flows for agentic workflows.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Agentic Design System Skill (Universal)
 

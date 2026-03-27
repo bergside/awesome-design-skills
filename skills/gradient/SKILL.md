@@ -1,3 +1,11 @@
+---
+name: gradient
+description: Smooth color transitions and gradient-rich surfaces for modern, playful interfaces with visual depth.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Gradient Design System Skill (Universal)
 

@@ -1,3 +1,11 @@
+---
+name: dithered
+description: Dot-pattern rendering technique that simulates shades with a limited palette for nostalgic, retro, high-contrast visuals.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # dithered Design System Skill (Universal)
 

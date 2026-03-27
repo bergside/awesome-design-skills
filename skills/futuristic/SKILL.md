@@ -1,3 +1,11 @@
+---
+name: futuristic
+description: Forward-looking design with tech-inspired typography, modern layouts, and a sleek, innovation-driven aesthetic.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Futuristic Design System Skill (Universal)
 

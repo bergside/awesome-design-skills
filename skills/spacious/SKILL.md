@@ -1,3 +1,11 @@
+---
+name: spacious
+description: Generous whitespace, consistent padding, and grid-based layouts for clean, readable, and breathing interfaces.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Spacious Design System Skill (Universal)
 

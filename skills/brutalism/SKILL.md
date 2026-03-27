@@ -1,3 +1,11 @@
+---
+name: brutalism
+description: Raw, anti-design aesthetic inspired by concrete architecture with unadorned elements, jarring layouts, and functional minimalism.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Brutalism Design System Skill (Universal)
 

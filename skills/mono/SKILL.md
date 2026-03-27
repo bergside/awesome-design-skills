@@ -1,3 +1,11 @@
+---
+name: mono
+description: Monospace-driven, matrix-inspired design with high-contrast elements, compact density, and a hacker-chic aesthetic.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # mono design Design System Skill (Universal)
 

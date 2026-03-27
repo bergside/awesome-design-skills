@@ -1,3 +1,11 @@
+---
+name: sleek
+description: Modern minimalist aesthetic with clean lines, intentional color palette, subtle interactions, and consistent spacing.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Sleek Design System Skill (Universal)
 

@@ -1,3 +1,11 @@
+---
+name: publication
+description: Print-inspired visual language for books, magazines, and reports with editorial grids and expressive typography.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Publication Design System Skill (Universal)
 

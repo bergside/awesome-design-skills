@@ -1,3 +1,11 @@
+---
+name: perspective
+description: Spatial depth design with isometric views, vanishing points, and layered elements that guide attention through 3D-like realism.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Perspective Design Design System Skill (Universal)
 

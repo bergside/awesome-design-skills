@@ -1,3 +1,11 @@
+---
+name: material
+description: Google's Material Design with layered surfaces, dynamic theming, built-in motion, and responsive cross-platform patterns.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Material Design System Skill (Antigravity)
 

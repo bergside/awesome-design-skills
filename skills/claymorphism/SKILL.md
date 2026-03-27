@@ -1,3 +1,11 @@
+---
+name: claymorphism
+description: Soft, rounded 3D-like shapes mimicking malleable clay with playful, puffy elements and colorful surfaces.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # claymorphism Design System Skill (Universal)
 

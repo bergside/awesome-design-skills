@@ -1,3 +1,11 @@
+---
+name: neobrutalism
+description: Modern take on brutalism with bold borders, vivid accent colors, and raw, high-contrast layouts on warm surfaces.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # neobrutalism Design System Skill (Universal)
 

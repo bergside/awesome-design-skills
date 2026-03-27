@@ -1,3 +1,11 @@
+---
+name: vibrant
+description: Lively, colorful design with bold playful typography, warm accents, and dynamic visual energy.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Vibrant Design System Skill (Universal)
 

@@ -1,3 +1,11 @@
+---
+name: fantasy
+description: Game-inspired fantasy aesthetic with bold, premium visuals, rich color palettes, and immersive thematic elements.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Fantasy Design System Skill (Universal)
 

@@ -1,3 +1,11 @@
+---
+name: minimal
+description: Stripped-back design emphasizing whitespace, clean typography, and restrained color for maximum clarity and focus.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Minimal Design Design System Skill (Universal)
 

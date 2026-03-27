@@ -1,3 +1,11 @@
+---
+name: enterprise
+description: Clean, high-contrast enterprise design for data-driven workflows with intuitive drag-and-drop patterns and structured layouts.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Flowloop Design System Skill (Universal)
 

@@ -1,3 +1,11 @@
+---
+name: shadcn
+description: Shadcn/ui-inspired design with minimal, clean components, monochrome palette, and utility-first patterns.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Shadcn Design System Skill (Universal)
 

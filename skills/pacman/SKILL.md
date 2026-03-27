@@ -1,3 +1,11 @@
+---
+name: pacman
+description: Retro arcade-inspired design with pixel fonts, dotted borders, playful high-contrast colors, and 8-bit game aesthetics.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # pacman Design System Skill (Universal)
 

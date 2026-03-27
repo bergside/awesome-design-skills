@@ -1,3 +1,11 @@
+---
+name: dramatic
+description: High-contrast, theatrical design with bold layouts, immersive visuals, and unconventional compositions that command attention.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Dramatic Design System Skill (Universal)
 

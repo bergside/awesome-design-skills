@@ -1,3 +1,11 @@
+---
+name: doodle
+description: Hand-drawn, sketch-like style with doodles, handwritten fonts, and imperfect lines for a playful, informal feel.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Hand Drawn Design System Skill (Universal)
 

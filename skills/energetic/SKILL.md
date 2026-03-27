@@ -1,3 +1,11 @@
+---
+name: energetic
+description: Dynamic, vibrant style with thick borders, geometric shapes, high-contrast colors, and expressive typography conveying motion and vitality.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Energetic Design System Skill (Universal)
 

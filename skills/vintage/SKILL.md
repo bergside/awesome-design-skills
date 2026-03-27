@@ -1,3 +1,11 @@
+---
+name: vintage
+description: 1950s-1990s nostalgia with skeuomorphic touches, grainy textures, retro color palettes, and pixel-style typography.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Vintage Design System Skill (Universal)
 

@@ -1,3 +1,11 @@
+---
+name: colorful
+description: Vibrant, high-contrast palettes and gradients for engaging, memorable, and modern user experiences.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Colorful Design System Skill (Universal)
 

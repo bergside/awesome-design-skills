@@ -1,3 +1,11 @@
+---
+name: neon
+description: Electric neon glow effects with high-contrast color pairings for bold, attention-grabbing interfaces.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Neon Design System Skill (Universal)
 

@@ -1,3 +1,11 @@
+---
+name: modern
+description: Contemporary editorial style with serif typography, minimal palettes, and clean layouts for polished digital products.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Modern  Design System Skill (Universal)
 

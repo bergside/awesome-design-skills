@@ -1,3 +1,11 @@
+---
+name: bold
+description: Strong visual presence with heavyweight typography, high-contrast colors, and commanding layouts.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Bold Design System Skill (Universal)
 

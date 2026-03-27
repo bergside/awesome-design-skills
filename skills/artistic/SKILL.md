@@ -1,3 +1,11 @@
+---
+name: artistic
+description: High-contrast, expressive style with creative typography and bold color choices for visually striking interfaces.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Artistic Design System Skill (Universal)
 

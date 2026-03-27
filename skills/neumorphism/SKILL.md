@@ -1,3 +1,11 @@
+---
+name: neumorphism
+description: Soft, extruded UI elements with inner and outer shadows on monochromatic surfaces for a tactile, embedded look.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Neumorphism club Design System Skill (Universal)
 

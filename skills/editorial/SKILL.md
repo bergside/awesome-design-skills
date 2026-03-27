@@ -1,3 +1,11 @@
+---
+name: editorial
+description: Magazine-inspired editorial layout with refined serif typography, structured grids, and elegant reading experiences.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Editorial Design System Skill (Universal)
 

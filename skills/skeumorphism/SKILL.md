@@ -1,3 +1,11 @@
+---
+name: skeumorphism
+description: Real-world mimicry with textured surfaces, 3D effects, and familiar physical metaphors for intuitive digital interfaces.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Skeumorphism Design System Skill (Antigravity)
 

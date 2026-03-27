@@ -1,3 +1,11 @@
+---
+name: glassmorphism
+description: Frosted glass effect with translucent layers, subtle blur, and luminous borders for depth and modern elegance.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Chatify Design System Skill (Universal)
 

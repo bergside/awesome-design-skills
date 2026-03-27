@@ -1,3 +1,11 @@
+---
+name: creative
+description: Playful, character-driven design with expressive typography and bold graphics for landing pages and creative projects.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Creative Design System Skill (Universal)
 

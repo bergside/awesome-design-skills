@@ -1,3 +1,11 @@
+---
+name: premium
+description: Apple-inspired premium aesthetic with precise spacing, modern typography, and a refined, polished visual language.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Apple Design System Skill (Universal)
 

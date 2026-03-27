@@ -1,3 +1,11 @@
+---
+name: tetris
+description: Classic block-game inspired design with playful colors, bold display fonts, and compact, high-energy layouts.
+license: MIT
+metadata:
+  author: typeui.sh
+---
+
 <!-- TYPEUI_SH_MANAGED_START -->
 # Tetris Design System Skill (Universal)
 
