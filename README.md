@@ -1,5 +1,9 @@
 # Awesome Design Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<img width="1200" height="630" alt="og-awesome-design-skills" src="https://github.com/user-attachments/assets/d392937a-a0a3-408d-b3f8-4d8920f836f9" />
+
+<br>
+
 > A curated registry of design system skill files for AI-powered agentic tools like [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview), [Cursor](https://www.cursor.com/), [Codex](https://openai.com/index/codex/), and others. Pull any skill into your project with a single command.
 
 Each skill is a `SKILL.md` file containing design tokens, component guidelines, accessibility rules, and implementation-ready specifications that instruct AI agents to follow a specific design system when building interfaces.
