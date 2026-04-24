@@ -2,7 +2,9 @@
 
 > A curated registry of design system skill files for AI-powered agentic tools like [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview), [Cursor](https://www.cursor.com/), [Codex](https://openai.com/index/codex/), and others. Pull any skill into your project with a single command.
 
-Each skill is a `SKILL.md` file containing design tokens, component guidelines, accessibility rules, and implementation-ready specifications that instruct AI agents to follow a specific design system when building interfaces.
+Each skill now ships as a folder with:
+- `SKILL.md` for AI-agent instructions (tokens, component rules, accessibility constraints, quality gates)
+- `DESIGN.md` for human-readable design intent, rationale, and implementation notes
 
 **[Preview all design skills on typeui.sh](https://typeui.sh/design-skills)**
 
@@ -40,7 +42,9 @@ npx typeui.sh list
 
 ## What is a Design Skill?
 
-A design skill is a `SKILL.md` file that acts as a set of instructions for AI agents and LLMs. Each file contains:
+A design skill is a folder containing `SKILL.md` and `DESIGN.md`.
+
+`SKILL.md` acts as the instruction source for AI agents and LLMs. It contains:
 
 - **Brand & mission** — the design philosophy and visual identity
 - **Style foundations** — typography scale, color palette, spacing system
@@ -50,7 +54,13 @@ A design skill is a `SKILL.md` file that acts as a set of instructions for AI ag
 - **Do/Don't rules** — explicit patterns and anti-patterns
 - **Quality gates** — testable acceptance criteria for code review
 
-When an AI agent reads a skill file, it follows these guidelines to generate UI code that is consistent, accessible, and true to the design system.
+`DESIGN.md` is a companion document for human readers and maintainers. It captures:
+
+- **Design overview** — concise summary of the visual direction
+- **Rationale and references** — context for why patterns/tokens exist
+- **Maintenance notes** — guidance for keeping design decisions aligned over time
+
+When an AI agent reads a skill file, it follows the `SKILL.md` guidelines to generate UI code that is consistent, accessible, and true to the design system.
 
 ## Design Skills
 
@@ -126,7 +136,7 @@ Use the [typeui.sh CLI](https://github.com/bergside/typeui.sh) to pull any skill
 npx typeui.sh pull <slug>
 ```
 
-The CLI will fetch the `SKILL.md` file from this registry and write it to your configured provider paths (e.g., `.cursor/skills/`, `.claude/`, etc.).
+The CLI will fetch the `SKILL.md` file from this registry and write it to your configured provider paths (e.g., `.cursor/skills/`, `.claude/`, etc.). The companion `DESIGN.md` remains in this repo alongside each skill for reference and maintenance.
 
 ### Specify providers
 
@@ -168,11 +178,14 @@ Each skill lives in its own folder under `skills/`:
 skills/
 ├── index.json          # Slug-keyed map for fast CLI lookups
 ├── glassmorphism/
-│   └── SKILL.md        # Design system skill file
+│   ├── SKILL.md        # AI-agent instruction file
+│   └── DESIGN.md       # Human-readable design companion
 ├── brutalism/
-│   └── SKILL.md
+│   ├── SKILL.md
+│   └── DESIGN.md
 ├── minimal/
-│   └── SKILL.md
+│   ├── SKILL.md
+│   └── DESIGN.md
 └── ...
 ```
 
@@ -188,7 +201,7 @@ The `index.json` file maps each slug to its skill path:
 }
 ```
 
-When you run `npx typeui.sh pull <slug>`, the CLI reads this index, resolves the skill path, and fetches the corresponding `SKILL.md` file.
+When you run `npx typeui.sh pull <slug>`, the CLI reads this index, resolves the skill path, and fetches the corresponding `SKILL.md` file. `DESIGN.md` is stored next to each skill for human-facing documentation.
 
 ## Contributing
 
@@ -196,8 +209,9 @@ Contributions are welcome! If you'd like to add a new design skill to the regist
 
 1. Create a new folder under `skills/` with your slug name
 2. Add a `SKILL.md` file following the existing format
-3. Add an entry to `skills/index.json`
-4. Submit a pull request
+3. Add a companion `DESIGN.md` file in the same folder
+4. Add an entry to `skills/index.json`
+5. Submit a pull request
 
 Please ensure your skill file includes all required sections: mission, brand, style foundations, component families, accessibility rules, writing tone, do/don't rules, and quality gates.
 

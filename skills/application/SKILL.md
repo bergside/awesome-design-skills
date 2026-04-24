@@ -1,6 +1,6 @@
 ---
 name: application
-description: Vercel/GitHub-inspired app dashboard with purple-themed aesthetic, top-bar navigation, card-based layouts, and developer-first workflows.
+description: App dashboard with purple-themed aesthetic, top-bar navigation, card-based layouts, and developer-first workflows.
 license: MIT
 metadata:
   author: typeui.sh
