@@ -70,65 +70,65 @@ When an AI agent reads a skill file, it follows the `SKILL.md` guidelines to gen
 
 Browse and preview all design skills at [typeui.sh/design-skills](https://typeui.sh/design-skills) before pulling them into your project.
 
-| Skill | Category | Preview | Pull Command |
-|-------|----------|---------|-------------|
-| **Agentic** | Themed & Unique | [Preview](https://typeui.sh/design-skills/agentic) | `npx typeui.sh pull agentic` |
-| **Ant** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/ant) | `npx typeui.sh pull ant` |
-| **Application** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/application) | `npx typeui.sh pull application` |
-| **Artistic** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/artistic) | `npx typeui.sh pull artistic` |
-| **Bento** | Layout & Structure | [Preview](https://typeui.sh/design-skills/bento) | `npx typeui.sh pull bento` |
-| **Bold** | Bold & Expressive | [Preview](https://typeui.sh/design-skills/bold) | `npx typeui.sh pull bold` |
-| **Brutalism** | Bold & Expressive | [Preview](https://typeui.sh/design-skills/brutalism) | `npx typeui.sh pull brutalism` |
-| **Cafe** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/cafe) | `npx typeui.sh pull cafe` |
-| **Claymorphism** | Morphism & Effects | [Preview](https://typeui.sh/design-skills/claymorphism) | `npx typeui.sh pull claymorphism` |
-| **Clean** | Modern & Minimal | [Preview](https://typeui.sh/design-skills/clean) | `npx typeui.sh pull clean` |
-| **Colorful** | Bold & Expressive | [Preview](https://typeui.sh/design-skills/colorful) | `npx typeui.sh pull colorful` |
-| **Contemporary** | Modern & Minimal | [Preview](https://typeui.sh/design-skills/contemporary) | `npx typeui.sh pull contemporary` |
-| **Corporate** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/corporate) | `npx typeui.sh pull corporate` |
-| **Cosmic** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/cosmic) | `npx typeui.sh pull cosmic` |
-| **Creative** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/creative) | `npx typeui.sh pull creative` |
-| **Dashboard** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/dashboard) | `npx typeui.sh pull dashboard` |
-| **Dithered** | Retro & Nostalgic | [Preview](https://typeui.sh/design-skills/dithered) | `npx typeui.sh pull dithered` |
-| **Doodle** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/doodle) | `npx typeui.sh pull doodle` |
-| **Dramatic** | Bold & Expressive | [Preview](https://typeui.sh/design-skills/dramatic) | `npx typeui.sh pull dramatic` |
-| **Editorial** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/editorial) | `npx typeui.sh pull editorial` |
-| **Elegant** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/elegant) | `npx typeui.sh pull elegant` |
-| **Energetic** | Bold & Expressive | [Preview](https://typeui.sh/design-skills/energetic) | `npx typeui.sh pull energetic` |
-| **Enterprise** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/enterprise) | `npx typeui.sh pull enterprise` |
-| **Expressive** | Bold & Expressive | [Preview](https://typeui.sh/design-skills/expressive) | `npx typeui.sh pull expressive` |
-| **Fantasy** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/fantasy) | `npx typeui.sh pull fantasy` |
-| **Flat** | Modern & Minimal | [Preview](https://typeui.sh/design-skills/flat) | `npx typeui.sh pull flat` |
-| **Friendly** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/friendly) | `npx typeui.sh pull friendly` |
-| **Futuristic** | Themed & Unique | [Preview](https://typeui.sh/design-skills/futuristic) | `npx typeui.sh pull futuristic` |
-| **Glassmorphism** | Morphism & Effects | [Preview](https://typeui.sh/design-skills/glassmorphism) | `npx typeui.sh pull glassmorphism` |
-| **Gradient** | Morphism & Effects | [Preview](https://typeui.sh/design-skills/gradient) | `npx typeui.sh pull gradient` |
-| **Levels** | Layout & Structure | [Preview](https://typeui.sh/design-skills/levels) | `npx typeui.sh pull levels` |
-| **Lingo** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/lingo) | `npx typeui.sh pull lingo` |
-| **Luxury** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/luxury) | `npx typeui.sh pull luxury` |
-| **Material** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/material) | `npx typeui.sh pull material` |
-| **Minimal** | Modern & Minimal | [Preview](https://typeui.sh/design-skills/minimal) | `npx typeui.sh pull minimal` |
-| **Modern** | Modern & Minimal | [Preview](https://typeui.sh/design-skills/modern) | `npx typeui.sh pull modern` |
-| **Mono** | Modern & Minimal | [Preview](https://typeui.sh/design-skills/mono) | `npx typeui.sh pull mono` |
-| **Neon** | Morphism & Effects | [Preview](https://typeui.sh/design-skills/neon) | `npx typeui.sh pull neon` |
-| **Neobrutalism** | Bold & Expressive | [Preview](https://typeui.sh/design-skills/neobrutalism) | `npx typeui.sh pull neobrutalism` |
-| **Neumorphism** | Morphism & Effects | [Preview](https://typeui.sh/design-skills/neumorphism) | `npx typeui.sh pull neumorphism` |
-| **Pacman** | Themed & Unique | [Preview](https://typeui.sh/design-skills/pacman) | `npx typeui.sh pull pacman` |
-| **Paper** | Retro & Nostalgic | [Preview](https://typeui.sh/design-skills/paper) | `npx typeui.sh pull paper` |
-| **Perspective** | Layout & Structure | [Preview](https://typeui.sh/design-skills/perspective) | `npx typeui.sh pull perspective` |
-| **Premium** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/premium) | `npx typeui.sh pull premium` |
-| **Professional** | Professional & Corporate | [Preview](https://typeui.sh/design-skills/professional) | `npx typeui.sh pull professional` |
-| **Publication** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/publication) | `npx typeui.sh pull publication` |
-| **Refined** | Modern & Minimal | [Preview](https://typeui.sh/design-skills/refined) | `npx typeui.sh pull refined` |
-| **Retro** | Retro & Nostalgic | [Preview](https://typeui.sh/design-skills/retro) | `npx typeui.sh pull retro` |
-| **Shadcn** | Modern & Minimal | [Preview](https://typeui.sh/design-skills/shadcn) | `npx typeui.sh pull shadcn` |
-| **Simple** | Modern & Minimal | [Preview](https://typeui.sh/design-skills/simple) | `npx typeui.sh pull simple` |
-| **Skeumorphism** | Morphism & Effects | [Preview](https://typeui.sh/design-skills/skeumorphism) | `npx typeui.sh pull skeumorphism` |
-| **Sleek** | Modern & Minimal | [Preview](https://typeui.sh/design-skills/sleek) | `npx typeui.sh pull sleek` |
-| **Spacious** | Layout & Structure | [Preview](https://typeui.sh/design-skills/spacious) | `npx typeui.sh pull spacious` |
-| **Storytelling** | Creative & Artistic | [Preview](https://typeui.sh/design-skills/storytelling) | `npx typeui.sh pull storytelling` |
-| **Tetris** | Themed & Unique | [Preview](https://typeui.sh/design-skills/tetris) | `npx typeui.sh pull tetris` |
-| **Vibrant** | Bold & Expressive | [Preview](https://typeui.sh/design-skills/vibrant) | `npx typeui.sh pull vibrant` |
-| **Vintage** | Retro & Nostalgic | [Preview](https://typeui.sh/design-skills/vintage) | `npx typeui.sh pull vintage` |
+| Skill | Thumbnail | Preview | Pull Command |
+|-------|-----------|---------|-------------|
+| **Agentic** | <img src="https://www.typeui.sh/registry-examples/agentic.png" alt="Agentic thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/agentic) | `npx typeui.sh pull agentic` |
+| **Ant** | <img src="https://www.typeui.sh/registry-examples/ant.png" alt="Ant thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/ant) | `npx typeui.sh pull ant` |
+| **Application** | <img src="https://www.typeui.sh/registry-examples/application.png" alt="Application thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/application) | `npx typeui.sh pull application` |
+| **Artistic** | <img src="https://www.typeui.sh/registry-examples/artistic.png" alt="Artistic thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/artistic) | `npx typeui.sh pull artistic` |
+| **Bento** | <img src="https://www.typeui.sh/registry-examples/bento.png" alt="Bento thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/bento) | `npx typeui.sh pull bento` |
+| **Bold** | <img src="https://www.typeui.sh/registry-examples/bold.png" alt="Bold thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/bold) | `npx typeui.sh pull bold` |
+| **Brutalism** | <img src="https://www.typeui.sh/registry-examples/brutalism.png" alt="Brutalism thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/brutalism) | `npx typeui.sh pull brutalism` |
+| **Cafe** | <img src="https://www.typeui.sh/registry-examples/cafe.png" alt="Cafe thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/cafe) | `npx typeui.sh pull cafe` |
+| **Claymorphism** | <img src="https://www.typeui.sh/registry-examples/claymorphism.png" alt="Claymorphism thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/claymorphism) | `npx typeui.sh pull claymorphism` |
+| **Clean** | <img src="https://www.typeui.sh/registry-examples/clean.png" alt="Clean thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/clean) | `npx typeui.sh pull clean` |
+| **Colorful** | <img src="https://www.typeui.sh/registry-examples/colorful.png" alt="Colorful thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/colorful) | `npx typeui.sh pull colorful` |
+| **Contemporary** | <img src="https://www.typeui.sh/registry-examples/contemporary.png" alt="Contemporary thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/contemporary) | `npx typeui.sh pull contemporary` |
+| **Corporate** | <img src="https://www.typeui.sh/registry-examples/corporate.png" alt="Corporate thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/corporate) | `npx typeui.sh pull corporate` |
+| **Cosmic** | <img src="https://www.typeui.sh/registry-examples/cosmic.png" alt="Cosmic thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/cosmic) | `npx typeui.sh pull cosmic` |
+| **Creative** | <img src="https://www.typeui.sh/registry-examples/creative.png" alt="Creative thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/creative) | `npx typeui.sh pull creative` |
+| **Dashboard** | <img src="https://www.typeui.sh/registry-examples/dashboard.png" alt="Dashboard thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/dashboard) | `npx typeui.sh pull dashboard` |
+| **Dithered** | <img src="https://www.typeui.sh/registry-examples/dithered.png" alt="Dithered thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/dithered) | `npx typeui.sh pull dithered` |
+| **Doodle** | <img src="https://www.typeui.sh/registry-examples/doodle.png" alt="Doodle thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/doodle) | `npx typeui.sh pull doodle` |
+| **Dramatic** | <img src="https://www.typeui.sh/registry-examples/dramatic.png" alt="Dramatic thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/dramatic) | `npx typeui.sh pull dramatic` |
+| **Editorial** | <img src="https://www.typeui.sh/registry-examples/editorial.png" alt="Editorial thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/editorial) | `npx typeui.sh pull editorial` |
+| **Elegant** | <img src="https://www.typeui.sh/registry-examples/elegant.png" alt="Elegant thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/elegant) | `npx typeui.sh pull elegant` |
+| **Energetic** | <img src="https://www.typeui.sh/registry-examples/energetic.png" alt="Energetic thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/energetic) | `npx typeui.sh pull energetic` |
+| **Enterprise** | <img src="https://www.typeui.sh/registry-examples/enterprise.png" alt="Enterprise thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/enterprise) | `npx typeui.sh pull enterprise` |
+| **Expressive** | <img src="https://www.typeui.sh/registry-examples/expressive.png" alt="Expressive thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/expressive) | `npx typeui.sh pull expressive` |
+| **Fantasy** | <img src="https://www.typeui.sh/registry-examples/fantasy.png" alt="Fantasy thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/fantasy) | `npx typeui.sh pull fantasy` |
+| **Flat** | <img src="https://www.typeui.sh/registry-examples/flat.png" alt="Flat thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/flat) | `npx typeui.sh pull flat` |
+| **Friendly** | <img src="https://www.typeui.sh/registry-examples/friendly.png" alt="Friendly thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/friendly) | `npx typeui.sh pull friendly` |
+| **Futuristic** | <img src="https://www.typeui.sh/registry-examples/futuristic.png" alt="Futuristic thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/futuristic) | `npx typeui.sh pull futuristic` |
+| **Glassmorphism** | <img src="https://www.typeui.sh/registry-examples/glassmorphism.png" alt="Glassmorphism thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/glassmorphism) | `npx typeui.sh pull glassmorphism` |
+| **Gradient** | <img src="https://www.typeui.sh/registry-examples/gradient.png" alt="Gradient thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/gradient) | `npx typeui.sh pull gradient` |
+| **Levels** | <img src="https://www.typeui.sh/registry-examples/levels.png" alt="Levels thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/levels) | `npx typeui.sh pull levels` |
+| **Lingo** | <img src="https://www.typeui.sh/registry-examples/lingo.png" alt="Lingo thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/lingo) | `npx typeui.sh pull lingo` |
+| **Luxury** | <img src="https://www.typeui.sh/registry-examples/luxury.png" alt="Luxury thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/luxury) | `npx typeui.sh pull luxury` |
+| **Material** | <img src="https://www.typeui.sh/registry-examples/material.png" alt="Material thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/material) | `npx typeui.sh pull material` |
+| **Minimal** | <img src="https://www.typeui.sh/registry-examples/minimal.png" alt="Minimal thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/minimal) | `npx typeui.sh pull minimal` |
+| **Modern** | <img src="https://www.typeui.sh/registry-examples/modern.png" alt="Modern thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/modern) | `npx typeui.sh pull modern` |
+| **Mono** | <img src="https://www.typeui.sh/registry-examples/mono.png" alt="Mono thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/mono) | `npx typeui.sh pull mono` |
+| **Neon** | <img src="https://www.typeui.sh/registry-examples/neon.png" alt="Neon thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/neon) | `npx typeui.sh pull neon` |
+| **Neobrutalism** | <img src="https://www.typeui.sh/registry-examples/neobrutalism.png" alt="Neobrutalism thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/neobrutalism) | `npx typeui.sh pull neobrutalism` |
+| **Neumorphism** | <img src="https://www.typeui.sh/registry-examples/neumorphism.png" alt="Neumorphism thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/neumorphism) | `npx typeui.sh pull neumorphism` |
+| **Pacman** | <img src="https://www.typeui.sh/registry-examples/pacman.png" alt="Pacman thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/pacman) | `npx typeui.sh pull pacman` |
+| **Paper** | <img src="https://www.typeui.sh/registry-examples/paper.png" alt="Paper thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/paper) | `npx typeui.sh pull paper` |
+| **Perspective** | <img src="https://www.typeui.sh/registry-examples/perspective.png" alt="Perspective thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/perspective) | `npx typeui.sh pull perspective` |
+| **Premium** | <img src="https://www.typeui.sh/registry-examples/premium.png" alt="Premium thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/premium) | `npx typeui.sh pull premium` |
+| **Professional** | <img src="https://www.typeui.sh/registry-examples/professional.png" alt="Professional thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/professional) | `npx typeui.sh pull professional` |
+| **Publication** | <img src="https://www.typeui.sh/registry-examples/publication.png" alt="Publication thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/publication) | `npx typeui.sh pull publication` |
+| **Refined** | <img src="https://www.typeui.sh/registry-examples/refined.png" alt="Refined thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/refined) | `npx typeui.sh pull refined` |
+| **Retro** | <img src="https://www.typeui.sh/registry-examples/retro.png" alt="Retro thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/retro) | `npx typeui.sh pull retro` |
+| **Shadcn** | <img src="https://www.typeui.sh/registry-examples/shadcn.png" alt="Shadcn thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/shadcn) | `npx typeui.sh pull shadcn` |
+| **Simple** | <img src="https://www.typeui.sh/registry-examples/simple.png" alt="Simple thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/simple) | `npx typeui.sh pull simple` |
+| **Skeumorphism** | <img src="https://www.typeui.sh/registry-examples/skeumorphism.png" alt="Skeumorphism thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/skeumorphism) | `npx typeui.sh pull skeumorphism` |
+| **Sleek** | <img src="https://www.typeui.sh/registry-examples/sleek.png" alt="Sleek thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/sleek) | `npx typeui.sh pull sleek` |
+| **Spacious** | <img src="https://www.typeui.sh/registry-examples/spacious.png" alt="Spacious thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/spacious) | `npx typeui.sh pull spacious` |
+| **Storytelling** | <img src="https://www.typeui.sh/registry-examples/storytelling.png" alt="Storytelling thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/storytelling) | `npx typeui.sh pull storytelling` |
+| **Tetris** | <img src="https://www.typeui.sh/registry-examples/tetris.png" alt="Tetris thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/tetris) | `npx typeui.sh pull tetris` |
+| **Vibrant** | <img src="https://www.typeui.sh/registry-examples/vibrant.png" alt="Vibrant thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/vibrant) | `npx typeui.sh pull vibrant` |
+| **Vintage** | <img src="https://www.typeui.sh/registry-examples/vintage.png" alt="Vintage thumbnail" width="72" /> | [Preview](https://typeui.sh/design-skills/vintage) | `npx typeui.sh pull vintage` |
 
 ## Usage
 
