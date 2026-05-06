@@ -340,5 +340,65 @@
     "name": "Ant",
     "skillPath": "skills/ant/SKILL.md",
     "designPath": "skills/ant/DESIGN.md"
+  },
+  "claude": {
+    "slug": "claude",
+    "name": "Claude",
+    "skillPath": "skills/claude/SKILL.md",
+    "designPath": "skills/claude/DESIGN.md"
+  },
+  "codex": {
+    "slug": "codex",
+    "name": "Codex",
+    "skillPath": "skills/codex/SKILL.md",
+    "designPath": "skills/codex/DESIGN.md"
+  },
+  "fiction": {
+    "slug": "fiction",
+    "name": "Fiction",
+    "skillPath": "skills/fiction/SKILL.md",
+    "designPath": "skills/fiction/DESIGN.md"
+  },
+  "immersive": {
+    "slug": "immersive",
+    "name": "Immersive",
+    "skillPath": "skills/immersive/SKILL.md",
+    "designPath": "skills/immersive/DESIGN.md"
+  },
+  "impeccable": {
+    "slug": "impeccable",
+    "name": "Impeccable",
+    "skillPath": "skills/impeccable/SKILL.md",
+    "designPath": "skills/impeccable/DESIGN.md"
+  },
+  "matrix": {
+    "slug": "matrix",
+    "name": "Matrix",
+    "skillPath": "skills/matrix/SKILL.md",
+    "designPath": "skills/matrix/DESIGN.md"
+  },
+  "riso": {
+    "slug": "riso",
+    "name": "Riso",
+    "skillPath": "skills/riso/SKILL.md",
+    "designPath": "skills/riso/DESIGN.md"
+  },
+  "sega": {
+    "slug": "sega",
+    "name": "Sega",
+    "skillPath": "skills/sega/SKILL.md",
+    "designPath": "skills/sega/DESIGN.md"
+  },
+  "sketch": {
+    "slug": "sketch",
+    "name": "Sketch",
+    "skillPath": "skills/sketch/SKILL.md",
+    "designPath": "skills/sketch/DESIGN.md"
+  },
+  "terracotta": {
+    "slug": "terracotta",
+    "name": "Terracotta",
+    "skillPath": "skills/terracotta.md/SKILL.md",
+    "designPath": "skills/terracotta.md/DESIGN.md"
   }
 }
