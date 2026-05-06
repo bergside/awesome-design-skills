@@ -4,7 +4,7 @@
 
 <br>
 
-> A curated registry of design system skill files for AI-powered agentic tools like [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview), [Cursor](https://www.cursor.com/), [Codex](https://openai.com/index/codex/), and others. Pull any skill into your project with a single command.
+> A curated registry of 67 design system skill files for AI-powered agentic tools like [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview), [Cursor](https://www.cursor.com/), [Codex](https://openai.com/index/codex/), and others. Pull any skill into your project with a single command.
 
 Each skill now ships as a folder with:
 - `SKILL.md` for AI-agent instructions (tokens, component rules, accessibility constraints, quality gates)
@@ -70,6 +70,8 @@ When an AI agent reads a skill file, it follows the `SKILL.md` guidelines to gen
 
 Browse and preview all design skills at [typeui.sh/design-skills](https://typeui.sh/design-skills) before pulling them into your project.
 
+**Total skills:** 67
+
 | Skill | Thumbnail | Preview | Pull Command |
 |-------|-----------|---------|-------------|
 | **Agentic** | [<img src="https://www.typeui.sh/registry-examples/agentic.png" alt="Agentic thumbnail" width="280" />](https://typeui.sh/design-skills/agentic) | [Preview](https://typeui.sh/design-skills/agentic) | `npx typeui.sh pull agentic` |
@@ -83,7 +85,7 @@ Browse and preview all design skills at [typeui.sh/design-skills](https://typeui
 | **Claymorphism** | [<img src="https://www.typeui.sh/registry-examples/claymorphism.png" alt="Claymorphism thumbnail" width="280" />](https://typeui.sh/design-skills/claymorphism) | [Preview](https://typeui.sh/design-skills/claymorphism) | `npx typeui.sh pull claymorphism` |
 | **Claude** | [<img src="https://www.typeui.sh/registry-examples/claude.png" alt="Claude thumbnail" width="280" />](https://typeui.sh/design-skills/claude) | [Preview](https://typeui.sh/design-skills/claude) | `npx typeui.sh pull claude` |
 | **Clean** | [<img src="https://www.typeui.sh/registry-examples/clean.png" alt="Clean thumbnail" width="280" />](https://typeui.sh/design-skills/clean) | [Preview](https://typeui.sh/design-skills/clean) | `npx typeui.sh pull clean` |
-| **Codex** | [<img src="https://www.typeui.sh/registry-examples/codex.png" alt="Codex thumbnail" width="280" />](https://typeui.sh/design-skills/codex) | [Preview](https://typeui.sh/design-skills/codex) | `npx typeui.sh pull codex` |
+| **Codex** | [<img src="https://www.typeui.sh/registry-examples/open.png" alt="Codex thumbnail" width="280" />](https://typeui.sh/design-skills/codex) | [Preview](https://typeui.sh/design-skills/codex) | `npx typeui.sh pull codex` |
 | **Colorful** | [<img src="https://www.typeui.sh/registry-examples/colorful.png" alt="Colorful thumbnail" width="280" />](https://typeui.sh/design-skills/colorful) | [Preview](https://typeui.sh/design-skills/colorful) | `npx typeui.sh pull colorful` |
 | **Contemporary** | [<img src="https://www.typeui.sh/registry-examples/contemporary.png" alt="Contemporary thumbnail" width="280" />](https://typeui.sh/design-skills/contemporary) | [Preview](https://typeui.sh/design-skills/contemporary) | `npx typeui.sh pull contemporary` |
 | **Corporate** | [<img src="https://www.typeui.sh/registry-examples/corporate.png" alt="Corporate thumbnail" width="280" />](https://typeui.sh/design-skills/corporate) | [Preview](https://typeui.sh/design-skills/corporate) | `npx typeui.sh pull corporate` |
