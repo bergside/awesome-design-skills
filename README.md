@@ -12,7 +12,7 @@ Each skill now ships as a folder with:
 
 **[Preview all design skills on typeui.sh](https://typeui.sh/design-skills)**
 
-Built and maintained by [Bergside](https://github.com/bergside). Powered by [typeui.sh](https://github.com/bergside/typeui.sh).
+Built and maintained by [Bergside](https://github.com/bergside). Powered by [TypeUI](https://github.com/bergside/typeui.sh).
 
 ## Contents
 
@@ -26,7 +26,7 @@ Built and maintained by [Bergside](https://github.com/bergside). Powered by [typ
 
 ## Quick Start
 
-Pull any design skill directly into your project using [typeui.sh](https://github.com/bergside/typeui.sh):
+Pull any design skill directly into your project using the [TypeUI CLI](https://github.com/bergside/typeui.sh):
 
 ```bash
 npx typeui.sh pull <slug>
