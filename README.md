@@ -12,16 +12,6 @@ Each skill now ships as a folder with:
 
 **[Preview all design skills on Type UI](https://typeui.sh/design-skills)**
 
-## Contents
-
-- [Quick Start](#quick-start)
-- [What is a Design Skill?](#what-is-a-design-skill)
-- [Design Skills](#design-skills)
-- [Usage](#usage)
-- [Registry Structure](#registry-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Quick Start
 
 Pull any design skill directly into your project using the [TypeUI CLI](https://github.com/bergside/typeui.sh):
