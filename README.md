@@ -10,9 +10,7 @@ Each skill now ships as a folder with:
 - `SKILL.md` for AI-agent instructions (tokens, component rules, accessibility constraints, quality gates)
 - `DESIGN.md` for human-readable design intent, rationale, and implementation notes
 
-**[Preview all design skills on typeui.sh](https://typeui.sh/design-skills)**
-
-Built and maintained by [Bergside](https://github.com/bergside). Powered by [TypeUI](https://github.com/bergside/typeui.sh).
+**[Preview all design skills on Type UI](https://typeui.sh/design-skills)**
 
 ## Contents
 
@@ -233,4 +231,4 @@ Please ensure your skill file includes all required sections: mission, brand, st
 
 ## License
 
-[MIT](LICENSE) &copy; [Bergside](https://github.com/bergside)
+[MIT License](LICENSE) &copy; Built and maintained by [Bergside](https://github.com/bergside).
