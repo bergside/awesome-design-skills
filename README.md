@@ -14,6 +14,9 @@ Each skill now ships as a folder with:
 
 ## Quick Start
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw — tracks Gateway status, sessions, token usage & trends
+
+
 Pull any design skill directly into your project using the [TypeUI CLI](https://github.com/bergside/typeui.sh):
 
 ```bash
