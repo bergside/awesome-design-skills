@@ -1,4 +1,10 @@
 {
+  "cronduit": {
+    "slug": "cronduit",
+    "name": "Cronduit",
+    "skillPath": "skills/cronduit/SKILL.md",
+    "designPath": "skills/cronduit/DESIGN.md"
+  },
   "agentic": {
     "slug": "agentic",
     "name": "Agentic",
