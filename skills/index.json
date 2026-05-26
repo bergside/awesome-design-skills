@@ -155,6 +155,12 @@
     "skillPath": "skills/gradient/SKILL.md",
     "designPath": "skills/gradient/DESIGN.md"
   },
+  "global-design": {
+    "slug": "global-design",
+    "name": "Global Design",
+    "skillPath": "skills/global-design/SKILL.md",
+    "designPath": "skills/global-design/DESIGN.md"
+  },
   "luxury": {
     "slug": "luxury",
     "name": "Luxury",
