@@ -551,3 +551,5 @@ A huge thank you to the companies supporting our open-source work.
 </table>
 
 Want to see your logo here? [Become a sponsor](https://www.typeui.sh/sponsor).
+
+- [Skill Hub](https://skill.442595.xyz/) — 2800+ AI Agent Skills 分类导航站，支持 Claude Code / Cursor / Codex / Hermes 等多平台技能筛选
