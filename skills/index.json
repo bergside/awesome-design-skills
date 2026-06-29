@@ -71,6 +71,12 @@
     "skillPath": "skills/creative/SKILL.md",
     "designPath": "skills/creative/DESIGN.md"
   },
+  "daarbak-redoffice": {
+    "slug": "daarbak-redoffice",
+    "name": "Daarbak Redoffice",
+    "skillPath": "skills/daarbak-redoffice/SKILL.md",
+    "designPath": "skills/daarbak-redoffice/DESIGN.md"
+  },
   "dithered": {
     "slug": "dithered",
     "name": "Dithered",
