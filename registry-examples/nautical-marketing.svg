@@ -1,0 +1,48 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Nautical design skill preview</title>
+  <desc id="desc">A dithered nautical dashboard preview with harbor blue panels, brass controls, chart lines, and wave texture.</desc>
+  <defs>
+    <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#0F6B7A" opacity="0.32"/>
+      <circle cx="8" cy="8" r="1.25" fill="#063B5B" opacity="0.2"/>
+    </pattern>
+    <pattern id="chart" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#D8A24A" stroke-opacity="0.18" stroke-width="2"/>
+      <path d="M24 0V48M0 24H48" stroke="#063B5B" stroke-opacity="0.12"/>
+    </pattern>
+    <linearGradient id="sea" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#063B5B"/>
+      <stop offset="0.56" stop-color="#0F6B7A"/>
+      <stop offset="1" stop-color="#102A36"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" rx="32" fill="url(#sea)"/>
+  <rect width="1200" height="760" fill="url(#chart)"/>
+  <path d="M0 584C118 540 204 624 320 584C436 544 530 510 650 562C770 614 850 632 964 584C1066 541 1134 548 1200 584V760H0V584Z" fill="#F7F3E8"/>
+  <path d="M0 614C108 578 202 650 318 612C454 568 526 552 648 608C770 664 862 666 970 616C1076 567 1148 588 1200 618V760H0V614Z" fill="url(#dots)" opacity="0.58"/>
+  <rect x="112" y="92" width="976" height="576" rx="24" fill="#F7F3E8" stroke="#D8A24A" stroke-width="4"/>
+  <rect x="112" y="92" width="976" height="96" rx="24" fill="#063B5B"/>
+  <path d="M112 164H1088" stroke="#D8A24A" stroke-width="4"/>
+  <circle cx="160" cy="140" r="14" fill="#D8A24A"/>
+  <circle cx="204" cy="140" r="14" fill="#0F6B7A"/>
+  <circle cx="248" cy="140" r="14" fill="#F7F3E8"/>
+  <text x="312" y="150" fill="#F7F3E8" font-family="Space Grotesk, Arial, sans-serif" font-size="34" font-weight="700">Nautical</text>
+  <text x="876" y="146" fill="#D8A24A" font-family="IBM Plex Mono, monospace" font-size="18" font-weight="700">DITHERED UI</text>
+  <rect x="160" y="236" width="272" height="348" rx="12" fill="#FFFFFF" stroke="#D4C8A9" stroke-width="2"/>
+  <rect x="192" y="272" width="180" height="20" rx="10" fill="#102A36"/>
+  <rect x="192" y="316" width="208" height="14" rx="7" fill="#0F6B7A" opacity="0.75"/>
+  <rect x="192" y="350" width="136" height="14" rx="7" fill="#0F6B7A" opacity="0.45"/>
+  <rect x="192" y="420" width="190" height="52" rx="8" fill="#D8A24A"/>
+  <text x="220" y="454" fill="#102A36" font-family="Open Sans, Arial, sans-serif" font-size="18" font-weight="800">Set Bearing</text>
+  <rect x="192" y="500" width="144" height="16" rx="8" fill="#063B5B" opacity="0.28"/>
+  <rect x="192" y="532" width="184" height="16" rx="8" fill="#063B5B" opacity="0.2"/>
+  <rect x="480" y="236" width="560" height="164" rx="12" fill="#063B5B"/>
+  <rect x="512" y="268" width="160" height="18" rx="9" fill="#F7F3E8"/>
+  <rect x="512" y="312" width="448" height="16" rx="8" fill="#0F6B7A"/>
+  <rect x="512" y="344" width="320" height="16" rx="8" fill="#D8A24A"/>
+  <path d="M904 300C932 260 996 282 1000 332C1004 382 928 388 904 348C880 388 804 382 808 332C812 282 876 260 904 300Z" fill="url(#dots)" stroke="#D8A24A" stroke-width="3"/>
+  <rect x="480" y="436" width="258" height="148" rx="12" fill="#FFFFFF" stroke="#D4C8A9" stroke-width="2"/>
+  <rect x="782" y="436" width="258" height="148" rx="12" fill="#FFFFFF" stroke="#D4C8A9" stroke-width="2"/>
+  <path d="M512 544C546 512 580 548 614 516C648 484 682 516 706 496" stroke="#0F6B7A" stroke-width="10" stroke-linecap="round"/>
+  <path d="M814 520H1008M814 480H940M814 552H970" stroke="#063B5B" stroke-width="16" stroke-linecap="round" opacity="0.78"/>
+</svg>

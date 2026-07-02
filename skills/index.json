@@ -173,6 +173,12 @@
     "skillPath": "skills/minimal/SKILL.md",
     "designPath": "skills/minimal/DESIGN.md"
   },
+  "nautical": {
+    "slug": "nautical",
+    "name": "Nautical",
+    "skillPath": "skills/nautical/SKILL.md",
+    "designPath": "skills/nautical/DESIGN.md"
+  },
   "modern": {
     "slug": "modern",
     "name": "Modern",
