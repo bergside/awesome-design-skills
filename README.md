@@ -12,6 +12,28 @@ Each skill now ships as a folder with:
 
 **[Preview all design skills on TypeUI](https://typeui.sh/design-skills)**
 
+## Use with Autohand Code
+
+Autohand Code can load any design skill folder from `~/.autohand/skills/` or a project's `.autohand/skills/` directory.
+
+Install one skill globally:
+
+```bash
+git clone https://github.com/bergside/awesome-design-skills.git
+mkdir -p ~/.autohand/skills
+cp -R awesome-design-skills/skills/agentic ~/.autohand/skills/
+```
+
+Or install it only for the current project:
+
+```bash
+git clone https://github.com/bergside/awesome-design-skills.git
+mkdir -p .autohand/skills
+cp -R awesome-design-skills/skills/agentic .autohand/skills/
+```
+
+Replace `agentic` with any folder under `skills/`.
+
 ## Design Skills
 
 <table>
