@@ -531,6 +531,8 @@ Contributions are welcome! If you'd like to add a new design skill to the regist
 
 Please ensure your skill file includes all required sections: mission, brand, style foundations, component families, accessibility rules, writing tone, do/don't rules, and quality gates.
 
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — 4 Personal Context Artifact templates + 5 Claude Code skills (crm-everything, open-loops, watchers, morning-briefing, session-digest) that give AI agents deep personal context. Open-source, model-agnostic, one-command install.
+
 ## License
 
 [MIT License](LICENSE) &copy; Built and maintained by [Bergside](https://github.com/bergside).
