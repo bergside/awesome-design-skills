@@ -1,0 +1,551 @@
+diff --git a/README.md b/README.md
+index 9466ece..1a8755d 100644
+--- a/README.md
++++ b/README.md
+@@ -4,7 +4,7 @@
+ 
+ <br>
+ 
+-> A curated registry of 67 design system skill files for AI-powered agentic tools like [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview), [Cursor](https://www.cursor.com/), [Codex](https://openai.com/index/codex/), and others. Pull any skill into your project with a single command.
++> A curated registry of 68 design system skill files for AI-powered agentic tools like [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview), [Cursor](https://www.cursor.com/), [Codex](https://openai.com/index/codex/), and others. Pull any skill into your project with a single command.
+ 
+ Each skill now ships as a folder with:
+ - `SKILL.md` for AI-agent instructions (tokens, component rules, accessibility constraints, quality gates)
+@@ -135,6 +135,11 @@ Each skill now ships as a folder with:
+     </td>
+   </tr>
+   <tr>
++    <td align="center" width="33%" valign="top">
++      <a href="https://typeui.sh/design-skills/nautical"><img src="./registry-examples/nautical-marketing.svg" alt="Nautical" width="260" /></a><br />
++      <a href="https://typeui.sh/design-skills/nautical"><b>Nautical</b></a><br />
++      <sub><code>npx typeui.sh pull nautical</code></sub>
++    </td>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/editorial"><img src="./registry-examples/editorial-marketing.png" alt="Editorial" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/editorial"><b>Editorial</b></a><br />
+@@ -145,13 +150,13 @@ Each skill now ships as a folder with:
+       <a href="https://typeui.sh/design-skills/square"><b>Square</b></a><br />
+       <sub><code>npx typeui.sh pull square</code></sub>
+     </td>
++  </tr>
++  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/pulse"><img src="./registry-examples/pulse-marketing.png" alt="Pulse" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/pulse"><b>Pulse</b></a><br />
+       <sub><code>npx typeui.sh pull pulse</code></sub>
+     </td>
+-  </tr>
+-  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/stitch"><img src="./registry-examples/stitch-marketing.png" alt="Stitch" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/stitch"><b>Stitch</b></a><br />
+@@ -162,13 +167,13 @@ Each skill now ships as a folder with:
+       <a href="https://typeui.sh/design-skills/expressive"><b>Expressive</b></a><br />
+       <sub><code>npx typeui.sh pull expressive</code></sub>
+     </td>
++  </tr>
++  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/fantasy"><img src="./registry-examples/fantasy-marketing.png" alt="Fantasy" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/fantasy"><b>Fantasy</b></a><br />
+       <sub><code>npx typeui.sh pull fantasy</code></sub>
+     </td>
+-  </tr>
+-  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/fiction"><img src="./registry-examples/fiction-marketing.png" alt="Fiction" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/fiction"><b>Fiction</b></a><br />
+@@ -179,13 +184,13 @@ Each skill now ships as a folder with:
+       <a href="https://typeui.sh/design-skills/flat"><b>Flat</b></a><br />
+       <sub><code>npx typeui.sh pull flat</code></sub>
+     </td>
++  </tr>
++  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/friendly"><img src="./registry-examples/friendly-marketing.png" alt="Friendly" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/friendly"><b>Friendly</b></a><br />
+       <sub><code>npx typeui.sh pull friendly</code></sub>
+     </td>
+-  </tr>
+-  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/futuristic"><img src="./registry-examples/futuristic-marketing.png" alt="Futuristic" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/futuristic"><b>Futuristic</b></a><br />
+@@ -196,13 +201,13 @@ Each skill now ships as a folder with:
+       <a href="https://typeui.sh/design-skills/glassmorphism"><b>Glassmorphism</b></a><br />
+       <sub><code>npx typeui.sh pull glassmorphism</code></sub>
+     </td>
++  </tr>
++  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/gradient"><img src="./registry-examples/gradient-marketing.png" alt="Gradient" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/gradient"><b>Gradient</b></a><br />
+       <sub><code>npx typeui.sh pull gradient</code></sub>
+     </td>
+-  </tr>
+-  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/immersive"><img src="./registry-examples/immersive-marketing.png" alt="Immersive" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/immersive"><b>Immersive</b></a><br />
+@@ -213,13 +218,13 @@ Each skill now ships as a folder with:
+       <a href="https://typeui.sh/design-skills/impeccable"><b>Impeccable</b></a><br />
+       <sub><code>npx typeui.sh pull impeccable</code></sub>
+     </td>
++  </tr>
++  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/levels"><img src="./registry-examples/levels-marketing.png" alt="Levels" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/levels"><b>Levels</b></a><br />
+       <sub><code>npx typeui.sh pull levels</code></sub>
+     </td>
+-  </tr>
+-  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/lingo"><img src="./registry-examples/lingo-marketing.png" alt="Lingo" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/lingo"><b>Lingo</b></a><br />
+@@ -230,13 +235,13 @@ Each skill now ships as a folder with:
+       <a href="https://typeui.sh/design-skills/power"><b>Power</b></a><br />
+       <sub><code>npx typeui.sh pull power</code></sub>
+     </td>
++  </tr>
++  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/material"><img src="./registry-examples/material-marketing.png" alt="Material" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/material"><b>Material</b></a><br />
+       <sub><code>npx typeui.sh pull material</code></sub>
+     </td>
+-  </tr>
+-  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/matrix"><img src="./registry-examples/matrix-marketing.png" alt="Matrix" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/matrix"><b>Matrix</b></a><br />
+@@ -247,13 +252,13 @@ Each skill now ships as a folder with:
+       <a href="https://typeui.sh/design-skills/minimal"><b>Minimal</b></a><br />
+       <sub><code>npx typeui.sh pull minimal</code></sub>
+     </td>
++  </tr>
++  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/modern"><img src="./registry-examples/modern-marketing.png" alt="Modern" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/modern"><b>Modern</b></a><br />
+       <sub><code>npx typeui.sh pull modern</code></sub>
+     </td>
+-  </tr>
+-  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/mono"><img src="./registry-examples/mono-marketing.png" alt="Mono" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/mono"><b>Mono</b></a><br />
+@@ -264,13 +269,13 @@ Each skill now ships as a folder with:
+       <a href="https://typeui.sh/design-skills/neon"><b>Neon</b></a><br />
+       <sub><code>npx typeui.sh pull neon</code></sub>
+     </td>
++  </tr>
++  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/neobrutalism"><img src="./registry-examples/neobrutalism-marketing.png" alt="Neobrutalism" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/neobrutalism"><b>Neobrutalism</b></a><br />
+       <sub><code>npx typeui.sh pull neobrutalism</code></sub>
+     </td>
+-  </tr>
+-  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/neumorphism"><img src="./registry-examples/neumorphism-marketing.png" alt="Neumorphism" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/neumorphism"><b>Neumorphism</b></a><br />
+@@ -281,13 +286,13 @@ Each skill now ships as a folder with:
+       <a href="https://typeui.sh/design-skills/pacman"><b>Pacman</b></a><br />
+       <sub><code>npx typeui.sh pull pacman</code></sub>
+     </td>
++  </tr>
++  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/paper"><img src="./registry-examples/paper-marketing.png" alt="Paper" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/paper"><b>Paper</b></a><br />
+       <sub><code>npx typeui.sh pull paper</code></sub>
+     </td>
+-  </tr>
+-  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/perspective"><img src="./registry-examples/perspective-marketing.png" alt="Perspective" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/perspective"><b>Perspective</b></a><br />
+@@ -298,13 +303,13 @@ Each skill now ships as a folder with:
+       <a href="https://typeui.sh/design-skills/premium"><b>Premium</b></a><br />
+       <sub><code>npx typeui.sh pull premium</code></sub>
+     </td>
++  </tr>
++  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/professional"><img src="./registry-examples/professional-marketing.png" alt="Professional" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/professional"><b>Professional</b></a><br />
+       <sub><code>npx typeui.sh pull professional</code></sub>
+     </td>
+-  </tr>
+-  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/basic"><img src="./registry-examples/basic-marketing.png" alt="Basic" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/basic"><b>Basic</b></a><br />
+@@ -315,13 +320,13 @@ Each skill now ships as a folder with:
+       <a href="https://typeui.sh/design-skills/refined"><b>Refined</b></a><br />
+       <sub><code>npx typeui.sh pull refined</code></sub>
+     </td>
++  </tr>
++  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/retro"><img src="./registry-examples/retro-marketing.png" alt="Retro" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/retro"><b>Retro</b></a><br />
+       <sub><code>npx typeui.sh pull retro</code></sub>
+     </td>
+-  </tr>
+-  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/riso"><img src="./registry-examples/riso-marketing.png" alt="Riso" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/riso"><b>Riso</b></a><br />
+@@ -332,13 +337,13 @@ Each skill now ships as a folder with:
+       <a href="https://typeui.sh/design-skills/sega"><b>Sega</b></a><br />
+       <sub><code>npx typeui.sh pull sega</code></sub>
+     </td>
++  </tr>
++  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/shadcn"><img src="./registry-examples/shadcn-marketing.png" alt="Shadcn" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/shadcn"><b>Shadcn</b></a><br />
+       <sub><code>npx typeui.sh pull shadcn</code></sub>
+     </td>
+-  </tr>
+-  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/geometric"><img src="./registry-examples/geometric-marketing.png" alt="Geometric" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/geometric"><b>Geometric</b></a><br />
+@@ -349,13 +354,13 @@ Each skill now ships as a folder with:
+       <a href="https://typeui.sh/design-skills/sketch"><b>Sketch</b></a><br />
+       <sub><code>npx typeui.sh pull sketch</code></sub>
+     </td>
++  </tr>
++  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/skeumorphism"><img src="./registry-examples/skeumorphism-marketing.png" alt="Skeumorphism" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/skeumorphism"><b>Skeumorphism</b></a><br />
+       <sub><code>npx typeui.sh pull skeumorphism</code></sub>
+     </td>
+-  </tr>
+-  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/sleek"><img src="./registry-examples/sleek-marketing.png" alt="Sleek" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/sleek"><b>Sleek</b></a><br />
+@@ -366,13 +371,13 @@ Each skill now ships as a folder with:
+       <a href="https://typeui.sh/design-skills/spacious"><b>Spacious</b></a><br />
+       <sub><code>npx typeui.sh pull spacious</code></sub>
+     </td>
++  </tr>
++  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/storytelling"><img src="./registry-examples/storytelling-marketing.png" alt="Storytelling" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/storytelling"><b>Storytelling</b></a><br />
+       <sub><code>npx typeui.sh pull storytelling</code></sub>
+     </td>
+-  </tr>
+-  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/terracotta"><img src="./registry-examples/terracotta-marketing.png" alt="Terracotta" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/terracotta"><b>Terracotta</b></a><br />
+@@ -383,20 +388,18 @@ Each skill now ships as a folder with:
+       <a href="https://typeui.sh/design-skills/tetris"><b>Tetris</b></a><br />
+       <sub><code>npx typeui.sh pull tetris</code></sub>
+     </td>
++  </tr>
++  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/vibrant"><img src="./registry-examples/vibrant-marketing.png" alt="Vibrant" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/vibrant"><b>Vibrant</b></a><br />
+       <sub><code>npx typeui.sh pull vibrant</code></sub>
+     </td>
+-  </tr>
+-  <tr>
+     <td align="center" width="33%" valign="top">
+       <a href="https://typeui.sh/design-skills/vintage"><img src="./registry-examples/vintage-marketing.png" alt="Vintage" width="260" /></a><br />
+       <a href="https://typeui.sh/design-skills/vintage"><b>Vintage</b></a><br />
+       <sub><code>npx typeui.sh pull vintage</code></sub>
+     </td>
+-    <td align="center" width="33%"></td>
+-    <td align="center" width="33%"></td>
+   </tr>
+ </table>
+ 
+diff --git a/registry-examples/nautical-marketing.svg b/registry-examples/nautical-marketing.svg
+new file mode 100644
+index 0000000..2afc3e2
+--- /dev/null
++++ b/registry-examples/nautical-marketing.svg
+@@ -0,0 +1,48 @@
++<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
++  <title id="title">Nautical design skill preview</title>
++  <desc id="desc">A dithered nautical dashboard preview with harbor blue panels, brass controls, chart lines, and wave texture.</desc>
++  <defs>
++    <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse">
++      <circle cx="2" cy="2" r="1.5" fill="#0F6B7A" opacity="0.32"/>
++      <circle cx="8" cy="8" r="1.25" fill="#063B5B" opacity="0.2"/>
++    </pattern>
++    <pattern id="chart" width="48" height="48" patternUnits="userSpaceOnUse">
++      <path d="M48 0H0V48" stroke="#D8A24A" stroke-opacity="0.18" stroke-width="2"/>
++      <path d="M24 0V48M0 24H48" stroke="#063B5B" stroke-opacity="0.12"/>
++    </pattern>
++    <linearGradient id="sea" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
++      <stop stop-color="#063B5B"/>
++      <stop offset="0.56" stop-color="#0F6B7A"/>
++      <stop offset="1" stop-color="#102A36"/>
++    </linearGradient>
++  </defs>
++  <rect width="1200" height="760" rx="32" fill="url(#sea)"/>
++  <rect width="1200" height="760" fill="url(#chart)"/>
++  <path d="M0 584C118 540 204 624 320 584C436 544 530 510 650 562C770 614 850 632 964 584C1066 541 1134 548 1200 584V760H0V584Z" fill="#F7F3E8"/>
++  <path d="M0 614C108 578 202 650 318 612C454 568 526 552 648 608C770 664 862 666 970 616C1076 567 1148 588 1200 618V760H0V614Z" fill="url(#dots)" opacity="0.58"/>
++  <rect x="112" y="92" width="976" height="576" rx="24" fill="#F7F3E8" stroke="#D8A24A" stroke-width="4"/>
++  <rect x="112" y="92" width="976" height="96" rx="24" fill="#063B5B"/>
++  <path d="M112 164H1088" stroke="#D8A24A" stroke-width="4"/>
++  <circle cx="160" cy="140" r="14" fill="#D8A24A"/>
++  <circle cx="204" cy="140" r="14" fill="#0F6B7A"/>
++  <circle cx="248" cy="140" r="14" fill="#F7F3E8"/>
++  <text x="312" y="150" fill="#F7F3E8" font-family="Space Grotesk, Arial, sans-serif" font-size="34" font-weight="700">Nautical</text>
++  <text x="876" y="146" fill="#D8A24A" font-family="IBM Plex Mono, monospace" font-size="18" font-weight="700">DITHERED UI</text>
++  <rect x="160" y="236" width="272" height="348" rx="12" fill="#FFFFFF" stroke="#D4C8A9" stroke-width="2"/>
++  <rect x="192" y="272" width="180" height="20" rx="10" fill="#102A36"/>
++  <rect x="192" y="316" width="208" height="14" rx="7" fill="#0F6B7A" opacity="0.75"/>
++  <rect x="192" y="350" width="136" height="14" rx="7" fill="#0F6B7A" opacity="0.45"/>
++  <rect x="192" y="420" width="190" height="52" rx="8" fill="#D8A24A"/>
++  <text x="220" y="454" fill="#102A36" font-family="Open Sans, Arial, sans-serif" font-size="18" font-weight="800">Set Bearing</text>
++  <rect x="192" y="500" width="144" height="16" rx="8" fill="#063B5B" opacity="0.28"/>
++  <rect x="192" y="532" width="184" height="16" rx="8" fill="#063B5B" opacity="0.2"/>
++  <rect x="480" y="236" width="560" height="164" rx="12" fill="#063B5B"/>
++  <rect x="512" y="268" width="160" height="18" rx="9" fill="#F7F3E8"/>
++  <rect x="512" y="312" width="448" height="16" rx="8" fill="#0F6B7A"/>
++  <rect x="512" y="344" width="320" height="16" rx="8" fill="#D8A24A"/>
++  <path d="M904 300C932 260 996 282 1000 332C1004 382 928 388 904 348C880 388 804 382 808 332C812 282 876 260 904 300Z" fill="url(#dots)" stroke="#D8A24A" stroke-width="3"/>
++  <rect x="480" y="436" width="258" height="148" rx="12" fill="#FFFFFF" stroke="#D4C8A9" stroke-width="2"/>
++  <rect x="782" y="436" width="258" height="148" rx="12" fill="#FFFFFF" stroke="#D4C8A9" stroke-width="2"/>
++  <path d="M512 544C546 512 580 548 614 516C648 484 682 516 706 496" stroke="#0F6B7A" stroke-width="10" stroke-linecap="round"/>
++  <path d="M814 520H1008M814 480H940M814 552H970" stroke="#063B5B" stroke-width="16" stroke-linecap="round" opacity="0.78"/>
++</svg>
+diff --git a/skills/index.json b/skills/index.json
+index 0972513..0722dd1 100644
+--- a/skills/index.json
++++ b/skills/index.json
+@@ -173,6 +173,12 @@
+     "skillPath": "skills/minimal/SKILL.md",
+     "designPath": "skills/minimal/DESIGN.md"
+   },
++  "nautical": {
++    "slug": "nautical",
++    "name": "Nautical",
++    "skillPath": "skills/nautical/SKILL.md",
++    "designPath": "skills/nautical/DESIGN.md"
++  },
+   "modern": {
+     "slug": "modern",
+     "name": "Modern",
+diff --git a/skills/nautical/DESIGN.md b/skills/nautical/DESIGN.md
+new file mode 100644
+index 0000000..90aca2e
+--- /dev/null
++++ b/skills/nautical/DESIGN.md
+@@ -0,0 +1,98 @@
++---
++name: Nautical
++colors:
++  primary: "#063B5B"
++  secondary: "#0F6B7A"
++  accent: "#D8A24A"
++  success: "#16825D"
++  warning: "#B86E16"
++  danger: "#B42318"
++  surface: "#F7F3E8"
++  text: "#102A36"
++  neutral: "#FFFFFF"
++typography:
++  h1:
++    fontFamily: "Space Grotesk"
++    fontSize: 2.5rem
++  body-md:
++    fontFamily: "Open Sans"
++    fontSize: 1rem
++  label-caps:
++    fontFamily: "IBM Plex Mono"
++    fontSize: 0.875rem
++  sourceScale: "14/16/18/24/32/40"
++  weights: "400, 500, 600, 700, 800"
++rounded:
++  sm: 4px
++  md: 8px
++spacing:
++  sm: 4px
++  md: 8px
++  sourceScale: "4/8/12/16/24/32"
++---
++
++## Overview
++
++Dithered nautical interface system for maritime products, fishing tools, coastal commerce, and ocean-facing dashboards.
++
++## Style Foundations
++
++- **Visual style:** maritime, dithered, utilitarian, calm
++- **Typography scale:** 14/16/18/24/32/40
++- **Typography fonts:** primary=Open Sans, display=Space Grotesk, mono=IBM Plex Mono
++- **Typography weights:** 400, 500, 600, 700, 800
++- **Color palette:** primary, secondary, accent, neutral, success, warning, danger, surface, text
++- **Spacing scale:** 4/8/12/16/24/32
++- **Texture system:** dithered dots, wave hatching, chart-grid lines, and rope-like dividers
++
++## Colors
++
++- **Primary (#063B5B):** Deep harbor blue for navigation, headers, and major surfaces.
++- **Secondary (#0F6B7A):** Teal waterline accent for secondary controls and data highlights.
++- **Accent (#D8A24A):** Brass highlight for primary calls to action, selection, and key metrics.
++- **Success (#16825D):** Navigational green for successful states and confirmed actions.
++- **Warning (#B86E16):** Buoy orange for warnings and reversible risk.
++- **Danger (#B42318):** Signal red for destructive or blocking errors.
++- **Surface (#F7F3E8):** Sailcloth base for content and form surfaces.
++- **Text (#102A36):** Ink-blue foreground for readable text on light surfaces.
++- **Neutral (#FFFFFF):** Foam white for inset cards, menus, and raised controls.
++
++## UI/UX Direction
++
++Use nautical style as a visual language, not as a replacement for product behavior. Existing routes, form submissions, button handlers, validation flows, loading states, and disabled logic must remain intact. Retheme components with token changes, spacing refinements, icon updates, and dithered support surfaces.
++
++## Component Guidance
++
++- **Buttons:** Primary buttons use brass fill with ink-blue text; secondary buttons use sailcloth fill with harbor-blue border. Keep existing click handlers, submit types, disabled states, and loading states unchanged.
++- **Navigation:** Use deep harbor surfaces, clear active indicators, and chart-line separators. Do not rename destinations unless product copy explicitly changes.
++- **Cards and panels:** Prefer sailcloth or foam surfaces with 1px blue-gray borders. Add dithered corner shading only when it does not compete with data.
++- **Forms:** Inputs stay plain and legible. Use strong focus rings, clear error messages, and avoid texture inside input fields.
++- **Tables and dashboards:** Use compact spacing, sticky headers when useful, and teal/brass highlights for active filters or key values. Preserve sorting, filtering, pagination, and row actions.
++- **Empty states:** Use small dithered nautical illustrations or chart-grid backgrounds with direct next-action copy.
++
++## Accessibility
++
++- Text and controls must meet WCAG 2.2 AA contrast.
++- Focus-visible rings must be at least 2px and visible on both sailcloth and harbor surfaces.
++- Status cannot be communicated by color alone; pair status colors with text, icons, or shape.
++- Touch targets must be at least 44px in either dimension.
++- Dithered patterns must not reduce text readability or pointer target clarity.
++
++## Content Tone
++
++Use clear product language first. Maritime terms are acceptable when they clarify orientation or state, such as "current route", "trip log", "harbor", "signal", or "bearing". Avoid novelty copy that hides the action, such as replacing "Save" with "Anchor it".
++
++## Anti-Patterns
++
++- Replacing working controls with decorative wheels, ropes, anchors, or map props.
++- Applying dithered texture behind body copy, form fields, or dense table cells.
++- Making the interface a single blue palette with no warm accent or neutral relief.
++- Changing button behavior, form submission semantics, routes, or keyboard operation during a visual retheme.
++
++## QA Checklist
++
++- All existing buttons, links, forms, and shortcuts still trigger the same actions.
++- Primary, secondary, disabled, loading, hover, active, focus-visible, success, warning, and error states are visually distinct.
++- Dithered pattern usage is decorative, bounded, and never behind small text.
++- Mobile layouts preserve hit targets and do not clip labels.
++- Color contrast passes WCAG 2.2 AA for text and interactive states.
+diff --git a/skills/nautical/SKILL.md b/skills/nautical/SKILL.md
+new file mode 100644
+index 0000000..e9b942b
+--- /dev/null
++++ b/skills/nautical/SKILL.md
+@@ -0,0 +1,98 @@
++---
++name: nautical
++description: Dithered nautical interface system for maritime products, fishing tools, coastal commerce, and ocean-facing dashboards.
++license: MIT
++metadata:
++  author: typeui.sh
++---
++
++<!-- TYPEUI_SH_MANAGED_START -->
++# nautical Design System Skill (Universal)
++
++## Mission
++You are an expert design-system guideline author for nautical.
++Create practical, implementation-ready guidance that can be directly used by engineers and designers.
++
++## Brand
++Nautical blends crisp maritime utility with dithered coastal texture: deep water blues, sailcloth surfaces, brass accents, tide-chart rhythm, and high-contrast oceanic illustration patterns. It should make interfaces feel seaworthy and precise without changing what the product does.
++
++## Style Foundations
++- Visual style: maritime, dithered, utilitarian, calm
++- Typography scale: 14/16/18/24/32/40 | Fonts: primary=Open Sans, display=Space Grotesk, mono=IBM Plex Mono | weights=400, 500, 600, 700, 800
++- Color palette: primary, secondary, neutral, success, warning, danger, surface, text | Tokens: primary=#063B5B, secondary=#0F6B7A, accent=#D8A24A, success=#16825D, warning=#B86E16, danger=#B42318, surface=#F7F3E8, text=#102A36, neutral=#FFFFFF
++- Spacing scale: 4/8/12/16/24/32
++- Texture rule: dithered dots, wave hatching, chart-grid lines, and rope-like dividers are allowed only as supporting surfaces, never as text backgrounds below AA contrast.
++
++## Interaction Preservation
++- Preserve every existing route, form submission, link target, button action, keyboard shortcut, tracking hook, and API call.
++- Retheme labels, surfaces, icon choices, spacing, and state styling without changing component names, event handlers, disabled logic, validation behavior, or loading behavior.
++- When a nautical treatment conflicts with established behavior, keep the behavior and simplify the visual treatment.
++
++## Accessibility
++WCAG 2.2 AA, keyboard-first interactions, visible focus states, reduced-motion support, and non-color cues for status.
++
++## Writing Tone
++clear, concise, practical, lightly maritime when it helps meaning
++
++## Rules: Do
++- use deep-water primary surfaces with sailcloth or foam surfaces for content areas
++- keep dithered patterns subtle and bounded to decorative bands, empty states, cards, and illustrations
++- use brass accents for primary calls to action, selection rings, and important numeric highlights
++- preserve visual hierarchy with type weight, spacing, and contrast before using texture
++- keep interaction states explicit: hover, focus-visible, active, disabled, loading, success, warning, error
++- design for empty/loading/error states with concise copy and stable layout
++- ensure responsive behavior by default, especially for dense dashboards and mobile toolbars
++
++## Rules: Don't
++- do not replace working controls with decorative nautical props
++- do not put dithered texture behind body text, form inputs, or small buttons
++- do not use novelty labels when direct labels are clearer
++- do not rely on blue alone for selection, safety, or error status
++- do not reduce hit areas below 44px on touch targets
++- do not introduce decorative motion that delays task completion
++
++## Expected Behavior
++- Follow the foundations first, then component consistency.
++- When uncertain, prioritize accessibility and functional preservation over nautical novelty.
++- Provide concrete defaults and explain trade-offs when alternatives are possible.
++- Keep guidance opinionated, concise, and implementation-focused.
++
++## Guideline Authoring Workflow
++1. Restate the design intent in one sentence before proposing rules.
++2. Define tokens, texture constraints, and behavioral preservation requirements before component-level guidance.
++3. Specify component anatomy, states, variants, and interaction behavior.
++4. Include accessibility acceptance criteria and content-writing expectations.
++5. Add anti-patterns and migration notes for existing inconsistent UI.
++6. End with a QA checklist that can be executed in code review.
++
++## Required Output Structure
++When generating design-system guidance, use this structure:
++- Context and goals
++- Design tokens and foundations
++- Component-level rules (anatomy, variants, states, responsive behavior)
++- Accessibility requirements and testable acceptance criteria
++- Content and tone standards with examples
++- Anti-patterns and prohibited implementations
++- Migration notes for preserving existing behavior
++- QA checklist
++
++## Component Rule Expectations
++- Define required states: default, hover, focus-visible, active, disabled, loading, error (as relevant).
++- Describe interaction behavior for keyboard, pointer, and touch.
++- State spacing, typography, color-token usage, and texture rules explicitly.
++- Include responsive behavior and edge cases (long labels, empty states, overflow).
++- Confirm that event handlers, route destinations, form behavior, and button actions stay unchanged unless a product requirement explicitly says otherwise.
++
++## Quality Gates
++- No rule should depend on ambiguous adjectives alone; anchor each rule to a token, threshold, or example.
++- Every accessibility statement must be testable in implementation.
++- Prefer system consistency over one-off local optimizations.
++- Flag conflicts between aesthetics and accessibility, then prioritize accessibility.
++- Treat broken button behavior, changed form semantics, or lost keyboard operation as release blockers.
++
++## Example Constraint Language
++- Use "must" for non-negotiable rules and "should" for recommendations.
++- Pair every do-rule with at least one concrete don't-example.
++- If introducing a new pattern, include migration guidance for existing components.
++
++<!-- TYPEUI_SH_MANAGED_END -->

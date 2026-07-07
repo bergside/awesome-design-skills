@@ -4,7 +4,7 @@
 
 <br>
 
-> A curated registry of 67 design system skill files for AI-powered agentic tools like [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview), [Cursor](https://www.cursor.com/), [Codex](https://openai.com/index/codex/), and others. Pull any skill into your project with a single command.
+> A curated registry of 68 design system skill files for AI-powered agentic tools like [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview), [Cursor](https://www.cursor.com/), [Codex](https://openai.com/index/codex/), and others. Pull any skill into your project with a single command.
 
 Each skill now ships as a folder with:
 - `SKILL.md` for AI-agent instructions (tokens, component rules, accessibility constraints, quality gates)
@@ -136,6 +136,11 @@ Each skill now ships as a folder with:
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
+      <a href="https://typeui.sh/design-skills/nautical"><img src="./registry-examples/nautical-marketing.svg" alt="Nautical" width="260" /></a><br />
+      <a href="https://typeui.sh/design-skills/nautical"><b>Nautical</b></a><br />
+      <sub><code>npx typeui.sh pull nautical</code></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/editorial"><img src="./registry-examples/editorial-marketing.png" alt="Editorial" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/editorial"><b>Editorial</b></a><br />
       <sub><code>npx typeui.sh pull editorial</code></sub>
@@ -145,13 +150,13 @@ Each skill now ships as a folder with:
       <a href="https://typeui.sh/design-skills/square"><b>Square</b></a><br />
       <sub><code>npx typeui.sh pull square</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/pulse"><img src="./registry-examples/pulse-marketing.png" alt="Pulse" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/pulse"><b>Pulse</b></a><br />
       <sub><code>npx typeui.sh pull pulse</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/stitch"><img src="./registry-examples/stitch-marketing.png" alt="Stitch" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/stitch"><b>Stitch</b></a><br />
@@ -162,13 +167,13 @@ Each skill now ships as a folder with:
       <a href="https://typeui.sh/design-skills/expressive"><b>Expressive</b></a><br />
       <sub><code>npx typeui.sh pull expressive</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/fantasy"><img src="./registry-examples/fantasy-marketing.png" alt="Fantasy" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/fantasy"><b>Fantasy</b></a><br />
       <sub><code>npx typeui.sh pull fantasy</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/fiction"><img src="./registry-examples/fiction-marketing.png" alt="Fiction" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/fiction"><b>Fiction</b></a><br />
@@ -179,13 +184,13 @@ Each skill now ships as a folder with:
       <a href="https://typeui.sh/design-skills/flat"><b>Flat</b></a><br />
       <sub><code>npx typeui.sh pull flat</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/friendly"><img src="./registry-examples/friendly-marketing.png" alt="Friendly" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/friendly"><b>Friendly</b></a><br />
       <sub><code>npx typeui.sh pull friendly</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/futuristic"><img src="./registry-examples/futuristic-marketing.png" alt="Futuristic" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/futuristic"><b>Futuristic</b></a><br />
@@ -196,13 +201,13 @@ Each skill now ships as a folder with:
       <a href="https://typeui.sh/design-skills/glassmorphism"><b>Glassmorphism</b></a><br />
       <sub><code>npx typeui.sh pull glassmorphism</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/gradient"><img src="./registry-examples/gradient-marketing.png" alt="Gradient" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/gradient"><b>Gradient</b></a><br />
       <sub><code>npx typeui.sh pull gradient</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/immersive"><img src="./registry-examples/immersive-marketing.png" alt="Immersive" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/immersive"><b>Immersive</b></a><br />
@@ -213,13 +218,13 @@ Each skill now ships as a folder with:
       <a href="https://typeui.sh/design-skills/impeccable"><b>Impeccable</b></a><br />
       <sub><code>npx typeui.sh pull impeccable</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/levels"><img src="./registry-examples/levels-marketing.png" alt="Levels" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/levels"><b>Levels</b></a><br />
       <sub><code>npx typeui.sh pull levels</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/lingo"><img src="./registry-examples/lingo-marketing.png" alt="Lingo" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/lingo"><b>Lingo</b></a><br />
@@ -230,13 +235,13 @@ Each skill now ships as a folder with:
       <a href="https://typeui.sh/design-skills/power"><b>Power</b></a><br />
       <sub><code>npx typeui.sh pull power</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/material"><img src="./registry-examples/material-marketing.png" alt="Material" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/material"><b>Material</b></a><br />
       <sub><code>npx typeui.sh pull material</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/matrix"><img src="./registry-examples/matrix-marketing.png" alt="Matrix" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/matrix"><b>Matrix</b></a><br />
@@ -247,13 +252,13 @@ Each skill now ships as a folder with:
       <a href="https://typeui.sh/design-skills/minimal"><b>Minimal</b></a><br />
       <sub><code>npx typeui.sh pull minimal</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/modern"><img src="./registry-examples/modern-marketing.png" alt="Modern" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/modern"><b>Modern</b></a><br />
       <sub><code>npx typeui.sh pull modern</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/mono"><img src="./registry-examples/mono-marketing.png" alt="Mono" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/mono"><b>Mono</b></a><br />
@@ -264,13 +269,13 @@ Each skill now ships as a folder with:
       <a href="https://typeui.sh/design-skills/neon"><b>Neon</b></a><br />
       <sub><code>npx typeui.sh pull neon</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/neobrutalism"><img src="./registry-examples/neobrutalism-marketing.png" alt="Neobrutalism" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/neobrutalism"><b>Neobrutalism</b></a><br />
       <sub><code>npx typeui.sh pull neobrutalism</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/neumorphism"><img src="./registry-examples/neumorphism-marketing.png" alt="Neumorphism" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/neumorphism"><b>Neumorphism</b></a><br />
@@ -281,13 +286,13 @@ Each skill now ships as a folder with:
       <a href="https://typeui.sh/design-skills/pacman"><b>Pacman</b></a><br />
       <sub><code>npx typeui.sh pull pacman</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/paper"><img src="./registry-examples/paper-marketing.png" alt="Paper" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/paper"><b>Paper</b></a><br />
       <sub><code>npx typeui.sh pull paper</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/perspective"><img src="./registry-examples/perspective-marketing.png" alt="Perspective" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/perspective"><b>Perspective</b></a><br />
@@ -298,13 +303,13 @@ Each skill now ships as a folder with:
       <a href="https://typeui.sh/design-skills/premium"><b>Premium</b></a><br />
       <sub><code>npx typeui.sh pull premium</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/professional"><img src="./registry-examples/professional-marketing.png" alt="Professional" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/professional"><b>Professional</b></a><br />
       <sub><code>npx typeui.sh pull professional</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/basic"><img src="./registry-examples/basic-marketing.png" alt="Basic" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/basic"><b>Basic</b></a><br />
@@ -315,13 +320,13 @@ Each skill now ships as a folder with:
       <a href="https://typeui.sh/design-skills/refined"><b>Refined</b></a><br />
       <sub><code>npx typeui.sh pull refined</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/retro"><img src="./registry-examples/retro-marketing.png" alt="Retro" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/retro"><b>Retro</b></a><br />
       <sub><code>npx typeui.sh pull retro</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/riso"><img src="./registry-examples/riso-marketing.png" alt="Riso" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/riso"><b>Riso</b></a><br />
@@ -332,13 +337,13 @@ Each skill now ships as a folder with:
       <a href="https://typeui.sh/design-skills/sega"><b>Sega</b></a><br />
       <sub><code>npx typeui.sh pull sega</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/shadcn"><img src="./registry-examples/shadcn-marketing.png" alt="Shadcn" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/shadcn"><b>Shadcn</b></a><br />
       <sub><code>npx typeui.sh pull shadcn</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/geometric"><img src="./registry-examples/geometric-marketing.png" alt="Geometric" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/geometric"><b>Geometric</b></a><br />
@@ -349,13 +354,13 @@ Each skill now ships as a folder with:
       <a href="https://typeui.sh/design-skills/sketch"><b>Sketch</b></a><br />
       <sub><code>npx typeui.sh pull sketch</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/skeumorphism"><img src="./registry-examples/skeumorphism-marketing.png" alt="Skeumorphism" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/skeumorphism"><b>Skeumorphism</b></a><br />
       <sub><code>npx typeui.sh pull skeumorphism</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/sleek"><img src="./registry-examples/sleek-marketing.png" alt="Sleek" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/sleek"><b>Sleek</b></a><br />
@@ -366,13 +371,13 @@ Each skill now ships as a folder with:
       <a href="https://typeui.sh/design-skills/spacious"><b>Spacious</b></a><br />
       <sub><code>npx typeui.sh pull spacious</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/storytelling"><img src="./registry-examples/storytelling-marketing.png" alt="Storytelling" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/storytelling"><b>Storytelling</b></a><br />
       <sub><code>npx typeui.sh pull storytelling</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/terracotta"><img src="./registry-examples/terracotta-marketing.png" alt="Terracotta" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/terracotta"><b>Terracotta</b></a><br />
@@ -383,20 +388,18 @@ Each skill now ships as a folder with:
       <a href="https://typeui.sh/design-skills/tetris"><b>Tetris</b></a><br />
       <sub><code>npx typeui.sh pull tetris</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/vibrant"><img src="./registry-examples/vibrant-marketing.png" alt="Vibrant" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/vibrant"><b>Vibrant</b></a><br />
       <sub><code>npx typeui.sh pull vibrant</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://typeui.sh/design-skills/vintage"><img src="./registry-examples/vintage-marketing.png" alt="Vintage" width="260" /></a><br />
       <a href="https://typeui.sh/design-skills/vintage"><b>Vintage</b></a><br />
       <sub><code>npx typeui.sh pull vintage</code></sub>
     </td>
-    <td align="center" width="33%"></td>
-    <td align="center" width="33%"></td>
   </tr>
 </table>
 
