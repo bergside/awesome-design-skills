@@ -4,6 +4,9 @@
 
 <br>
 
+
+- [STIL.AI — AI Fashion Design API](https://tools.gracestack.se/designa-klader.html) — Generate unique fashion designs from text. GPT Image 2 powered. 9 kr per design.
+
 > A curated registry of 67 design system skill files for AI-powered agentic tools like [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview), [Cursor](https://www.cursor.com/), [Codex](https://openai.com/index/codex/), and others. Pull any skill into your project with a single command.
 
 Each skill now ships as a folder with:
