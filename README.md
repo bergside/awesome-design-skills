@@ -442,6 +442,10 @@ A design skill is a folder containing `SKILL.md` and `DESIGN.md`.
 
 When an AI agent reads a skill file, it follows the `SKILL.md` guidelines to generate UI code that is consistent, accessible, and true to the design system.
 
+### Related QA tooling
+
+- [Agent QA](https://github.com/vostride/agent-qa) — Open-source, self-improving QA agent for software teams. It can exercise generated web and mobile interfaces through natural-language tests, retain testing context, and self-heal tests as applications change.
+
 ## Usage
 
 ### Pull a skill into your project
