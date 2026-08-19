@@ -442,6 +442,10 @@ A design skill is a folder containing `SKILL.md` and `DESIGN.md`.
 
 When an AI agent reads a skill file, it follows the `SKILL.md` guidelines to generate UI code that is consistent, accessible, and true to the design system.
 
+### Related QA tooling
+
+- [UIZZE](https://uizze.com) — Anti-UI-slop quality gates for coding agents. The free [Skill](https://uizze.com/ai-ui-slop) and deterministic preview ([check_ui_slop](https://uizze.com/mcp/preview)) catch generic UI before it ships; provides product-specific design contracts, required states, implementation validation, audits, rendered critique, and searchable evidence from 800,000+ real web and iOS screens.
+
 ## Usage
 
 ### Pull a skill into your project
