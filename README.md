@@ -444,7 +444,7 @@ When an AI agent reads a skill file, it follows the `SKILL.md` guidelines to gen
 
 ### Related QA tooling
 
-- [Agent QA](https://github.com/vostride/agent-qa) — Open-source, self-improving QA agent for software teams. It can exercise generated web and mobile interfaces through natural-language tests, retain testing context, and self-heal tests as applications change.
+- [Agent QA](https://github.com/vostride/agent-qa) — Source-available, self-improving QA agent for software teams. It can exercise generated web and mobile interfaces through natural-language tests, retain testing context, and self-heal tests as applications change.
 
 ## Usage
 
