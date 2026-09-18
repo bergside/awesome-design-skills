@@ -5,7 +5,7 @@ license: MIT
 metadata:
   author: Lexington Themes
   source: https://lexingtonthemes.com/templates/primapersona
-  demo: https://primapersona-astro.pages.dev
+  demo: https://lexingtonthemes.com/viewports/primapersona
 ---
 
 # Prima Persona design system

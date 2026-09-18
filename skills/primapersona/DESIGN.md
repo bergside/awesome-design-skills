@@ -53,7 +53,7 @@ Swiss-editorial: a strict four-column grid, monochrome neutrals, one green
 accent that almost never appears, small uppercase labels, and hairline rules
 between entries instead of cards. It ships with real light and dark mode.
 
-Live demo: [primapersona-astro.pages.dev](https://primapersona-astro.pages.dev)
+Live demo: [lexingtonthemes.com/viewports/primapersona](https://lexingtonthemes.com/viewports/primapersona)
 
 ## Design intent
 
