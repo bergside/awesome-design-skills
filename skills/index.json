@@ -95,6 +95,12 @@
     "skillPath": "skills/editorial/SKILL.md",
     "designPath": "skills/editorial/DESIGN.md"
   },
+  "primapersona": {
+    "slug": "primapersona",
+    "name": "Prima Persona",
+    "skillPath": "skills/primapersona/SKILL.md",
+    "designPath": "skills/primapersona/DESIGN.md"
+  },
   "square": {
     "slug": "square",
     "name": "Square",
