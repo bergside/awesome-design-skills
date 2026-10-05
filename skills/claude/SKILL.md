@@ -1,5 +1,5 @@
 ---
-name: "claude"
+name: "Design"
 description: "A research-journal aesthetic printed on warm stone — authoritative, editorial, almost achromatic. Pages live on warm ivory parchment (never pure white), with near-black slate as the dominant ink."
 metadata:
   author: typeui.sh
