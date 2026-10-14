@@ -1,0 +1,25 @@
+name: Daarbak token contrast
+
+on:
+  pull_request:
+    paths:
+      - 'skills/daarbak-redoffice/**'
+      - '.github/workflows/daarbak-contrast.yml'
+  push:
+    paths:
+      - 'skills/daarbak-redoffice/**'
+      - '.github/workflows/daarbak-contrast.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  contrast:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 skills/daarbak-redoffice/scripts/check_contrast.py

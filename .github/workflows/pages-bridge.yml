@@ -1,0 +1,61 @@
+name: Pages publication bridge
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: pages
+  cancel-in-progress: false
+env:
+  FAMILY_REF: b6f20f2fdf399b155402148329d45e02400fc9b1
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout existing site
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Build existing site
+        uses: actions/jekyll-build-pages@v1
+        with:
+          destination: ./_site
+      - name: Checkout approved personal project
+        uses: actions/checkout@v4
+        with:
+          repository: Duejimmi/familieekspressen
+          ref: ${{ env.FAMILY_REF }}
+          path: _family_source
+          persist-credentials: false
+      - name: Assemble and verify family page
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s _family_source/index.html
+          sudo chown -R "$(id -u):$(id -g)" _site
+          mkdir -p _site/familieekspressen
+          cp _family_source/index.html _site/familieekspressen/index.html
+          cmp _family_source/index.html _site/familieekspressen/index.html
+          echo "Family source commit: $FAMILY_REF" >> "$GITHUB_STEP_SUMMARY"
+          sha256sum _site/familieekspressen/index.html >> "$GITHUB_STEP_SUMMARY"
+      - name: Upload complete site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish without changing the site address
+        id: deployment
+        uses: actions/deploy-pages@v4
