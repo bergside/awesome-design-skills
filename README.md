@@ -531,6 +531,8 @@ Contributions are welcome! If you'd like to add a new design skill to the regist
 
 Please ensure your skill file includes all required sections: mission, brand, style foundations, component families, accessibility rules, writing tone, do/don't rules, and quality gates.
 
+- [No Stairs Please](https://nostairsplease.com/) — Live-music venue directory and MCP server (`https://nostairsplease.com/mcp`) documenting venue accessibility and step-free load-in across the US and BC.
+
 ## License
 
 [MIT License](LICENSE) &copy; Built and maintained by [Bergside](https://github.com/bergside).
